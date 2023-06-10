@@ -117,9 +117,9 @@
 		<Enhance ReqLevel="8" SuccessRate="850000" ItemCat1="20" ItemIndex1="94" ItemCount1="17" ItemCat2="-1" ItemIndex2="-1" ItemCount2="0" ItemCat3="-1" ItemIndex3="-1" ItemCount3="0" ReqMoney="5000000" />
 		<Enhance ReqLevel="9" SuccessRate="850000" ItemCat1="20" ItemIndex1="94" ItemCount1="19" ItemCat2="-1" ItemIndex2="-1" ItemCount2="0" ItemCat3="-1" ItemIndex3="-1" ItemCount3="0" ReqMoney="5500000" />
 		<Enhance ReqLevel="10" SuccessRate="800000" ItemCat1="20" ItemIndex1="94" ItemCount1="21" ItemCat2="-1" ItemIndex2="-1" ItemCount2="0" ItemCat3="-1" ItemIndex3="-1" ItemCount3="0" ReqMoney="6000000" />
-		<Enhance ReqLevel="11" SuccessRate="800000" ItemCat1="20" ItemIndex1="94" ItemCount1="23" ItemCat2="-1" ItemIndex2="-1" ItemCount2="0" ItemCat3="-1" ItemIndex3="-1" ItemCount3="0" ReqMoney="6500000" />
-		<Enhance ReqLevel="12" SuccessRate="750000" ItemCat1="20" ItemIndex1="94" ItemCount1="25" ItemCat2="-1" ItemIndex2="-1" ItemCount2="0" ItemCat3="-1" ItemIndex3="-1" ItemCount3="0" ReqMoney="7000000" />
-		<Enhance ReqLevel="13" SuccessRate="750000" ItemCat1="20" ItemIndex1="94" ItemCount1="27" ItemCat2="-1" ItemIndex2="-1" ItemCount2="0" ItemCat3="-1" ItemIndex3="-1" ItemCount3="0" ReqMoney="7500000" />
-		<Enhance ReqLevel="14" SuccessRate="600000" ItemCat1="20" ItemIndex1="94" ItemCount1="29" ItemCat2="-1" ItemIndex2="-1" ItemCount2="0" ItemCat3="-1" ItemIndex3="-1" ItemCount3="0" ReqMoney="8000000" />
+		<Enhance ReqLevel="11" SuccessRate="500000" ItemCat1="20" ItemIndex1="94" ItemCount1="23" ItemCat2="-1" ItemIndex2="-1" ItemCount2="0" ItemCat3="-1" ItemIndex3="-1" ItemCount3="0" ReqMoney="6500000" />
+		<Enhance ReqLevel="12" SuccessRate="500000" ItemCat1="20" ItemIndex1="94" ItemCount1="25" ItemCat2="-1" ItemIndex2="-1" ItemCount2="0" ItemCat3="-1" ItemIndex3="-1" ItemCount3="0" ReqMoney="7000000" />
+		<Enhance ReqLevel="13" SuccessRate="300000" ItemCat1="20" ItemIndex1="94" ItemCount1="27" ItemCat2="-1" ItemIndex2="-1" ItemCount2="0" ItemCat3="-1" ItemIndex3="-1" ItemCount3="0" ReqMoney="7500000" />
+		<Enhance ReqLevel="14" SuccessRate="300000" ItemCat1="20" ItemIndex1="94" ItemCount1="29" ItemCat2="-1" ItemIndex2="-1" ItemCount2="0" ItemCat3="-1" ItemIndex3="-1" ItemCount3="0" ReqMoney="8000000" />
 	</EnhancementMix>
 </ArtifactSystem>

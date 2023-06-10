@@ -189,6 +189,7 @@
 		<Item Cat="12" Index="494" Level="0"  Skill="0" Luck="0" Option="0" Exc="1" SetItem="0" SocketCount="3" Elemental="1" Serial="0" />
 		<Item Cat="12" Index="495" Level="0"  Skill="0" Luck="0" Option="0" Exc="1" SetItem="0" SocketCount="3" Elemental="1" Serial="0" />
 		<Item Cat="12" Index="498" Level="0"  Skill="0" Luck="0" Option="0" Exc="1" SetItem="0" SocketCount="3" Elemental="1" Serial="0" />
+		<Item Cat="20" Index="95" Level="0"  Durability="2" Skill="0" Luck="0" Option="0" Exc="1" SetItem="0" SocketCount="3" Elemental="1" Serial="0" />
 	</Tab>
 	<Tab Id="3">
 		<Item Cat="15" Index="0" Level="0"  Skill="0" Luck="0" Option="0" Exc="1" SetItem="0" SocketCount="3" Elemental="1" Serial="0" />
