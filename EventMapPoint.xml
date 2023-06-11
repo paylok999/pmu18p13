@@ -60,6 +60,7 @@
 		<Event Type="3" Count="10" Name="Imperial Fort" />
 		<Event Type="5" Count="1" Name="Illusion Temple" />
 		<Event Type="6" Count="10" Name="Doppelganger" />
+		<Event Type="7" Count="1" Name="Boss Battle Together" />
 	</EntryDailyLimit>
 	
 	<RewardCondition>
