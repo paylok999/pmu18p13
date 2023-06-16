@@ -278,6 +278,22 @@ function LoadItemBag() -- Bags Load
 	AddItemBag(BAG_INVENTORY, MakeItemID(20,76),0, 'Item_(20,76,0)_Blood_Angel_Weapon_Box') -- DropFunction /4/
 	AddItemBag(BAG_INVENTORY, MakeItemID(20,78),0, 'Item_(20,78,0)_Harmony_Jewel_Box') -- DropFunction /4/
 	AddItemBag(BAG_INVENTORY, MakeItemID(20,110),0, 'Item_(20,110,0)_Boss_Battle_Bonus_Box') -- DropFunction /4/
+	
+	--freebies
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,72),1, 'Item_(20,72,1)_Blood_Angel_Armor_Box_BM') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,72),2, 'Item_(20,72,2)_Blood_Angel_Armor_Box_WZ') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,72),3, 'Item_(20,72,3)_Blood_Angel_Armor_Box_ELF') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,72),4, 'Item_(20,72,4)_Blood_Angel_Armor_Box_MG') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,72),5, 'Item_(20,72,5)_Blood_Angel_Armor_Box_DL') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,72),6, 'Item_(20,72,6)_Blood_Angel_Armor_Box_SUM') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,72),7, 'Item_(20,72,7)_Blood_Angel_Armor_Box_RF') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,72),8, 'Item_(20,72,8)_Blood_Angel_Armor_Box_GL') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,72),9, 'Item_(20,72,9)_Blood_Angel_Armor_Box_RW') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,72),10, 'Item_(20,72,10)_Blood_Angel_Armor_Box_SL') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,72),11, 'Item_(20,72,11)_Blood_Angel_Armor_Box_GC') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,72),12, 'Item_(20,72,12)_Blood_Angel_Armor_Box_LW') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,72),13, 'Item_(20,72,13)_Blood_Angel_Armor_Box_LM') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,72),14, 'Item_(20,72,14)_Blood_Angel_Armor_Box_IK') -- DropFunction /4/
 
 -- ====================================================================
 -- MonsterBags -- BagType, 0, MonsterID, 'FileName'
