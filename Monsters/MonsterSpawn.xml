@@ -112,10 +112,6 @@
 			<Spawn Index="479" Distance="0" StartX="130" StartY="134" Dir="1" /> <!-- Doorkeeper Titus -->
 		</Spot>
 		<Spot Type="1" Description="Multi-Spawn">
-			<Spawn Index="411" Distance="30" StartX="91" StartY="127" EndX="91" EndY="127" Dir="-1" Count="5"/> <!-- Soram (Trainee Soldier) -->
-			<Spawn Index="410" Distance="30" StartX="91" StartY="127" EndX="91" EndY="127" Dir="-1" Count="5"/> <!-- Death Spirit (Trainee Soldier) -->
-			<Spawn Index="409" Distance="30" StartX="91" StartY="127" EndX="91" EndY="127" Dir="-1" Count="5"/> <!-- Balram (Trainee Soldier) -->
-			<Spawn Index="412" Distance="30" StartX="91" StartY="127" EndX="91" EndY="127" Dir="-1" Count="1"/> <!-- Dark Elf (Trainee Soldier) -->
 			<Spawn Index="3" Distance="30" StartX="180" StartY="90" EndX="226" EndY="244" Dir="-1" Count="45" /> <!-- Spider -->
 			<Spawn Index="2" Distance="30" StartX="180" StartY="90" EndX="226" EndY="244" Dir="-1" Count="40" /> <!-- Budge Dragon -->
 			<Spawn Index="2" Distance="30" StartX="135" StartY="20" EndX="240" EndY="88" Dir="-1" Count="20" />
@@ -2968,7 +2964,7 @@
 			<Spawn Index="209" Distance="0" StartX="117" StartY="27" Dir="2" /> <!-- Wolf Altar5 -->
 			<!-- <Spawn Index="248" Distance="0" StartX="99" StartY="40" Dir="2" /> --> <!-- Wandering Merchant Martin ~ shop managed via ShopList.xml -->
 			<Spawn Index="406" Distance="0" StartX="228" StartY="48" Dir="1" /> <!-- Apostle Devin -->
-			<Spawn Index="407" Distance="0" StartX="62" StartY="239" Dir="1" /> <!-- Werewolf Quarel -->
+			<Spawn Index="407" Distance="0" StartX="225" StartY="48" Dir="1" /> <!-- Werewolf Quarel -->
 		</Spot>
 		<Spot Type="2" Description="Single Point Monsters">
 			<Spawn Index="310" Distance="30" StartX="58" StartY="47" Dir="-1" /> <!-- Hammer Scout -->

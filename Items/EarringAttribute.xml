@@ -58,11 +58,11 @@
 
 <EarringAttribute>
 	<EditionSettings>
-		<Edition ID="1" OptionRate1="40" OptionRate2="40" OptionRate3="10" OptionRate4="0" OptionRate5="0" />
-		<Edition ID="2" OptionRate1="40" OptionRate2="40" OptionRate3="10" OptionRate4="0" OptionRate5="0" />
-		<Edition ID="3" OptionRate1="40" OptionRate2="40" OptionRate3="10" OptionRate4="0" OptionRate5="0" />
-		<Edition ID="4" OptionRate1="40" OptionRate2="40" OptionRate3="10" OptionRate4="0" OptionRate5="0" />
-		<Edition ID="5" OptionRate1="40" OptionRate2="40" OptionRate3="10" OptionRate4="0" OptionRate5="0" />
+		<Edition ID="1" OptionRate1="60" OptionRate2="40" OptionRate3="0" OptionRate4="0" OptionRate5="0" />
+		<Edition ID="2" OptionRate1="60" OptionRate2="40" OptionRate3="0" OptionRate4="0" OptionRate5="0" />
+		<Edition ID="3" OptionRate1="60" OptionRate2="40" OptionRate3="0" OptionRate4="0" OptionRate5="0" />
+		<Edition ID="4" OptionRate1="60" OptionRate2="40" OptionRate3="0" OptionRate4="0" OptionRate5="0" />
+		<Edition ID="5" OptionRate1="60" OptionRate2="40" OptionRate3="0" OptionRate4="0" OptionRate5="0" />
 	</EditionSettings>
 
 	<OptionLinkSettings>

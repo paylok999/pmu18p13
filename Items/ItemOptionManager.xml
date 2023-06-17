@@ -98,10 +98,10 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 -->
 	<Section ID="2">
-		<Item Cat="13" Index="43" Option1="6" Value1="50" Option2="0" Value2="0" Time="1800" /> <!-- Seal of Ascension -->
-		<Item Cat="13" Index="44" Option1="6" Value1="100" Option2="7" Value2="150" Time="1800" /> <!-- Seal of Wealth -->
-		<Item Cat="13" Index="45" Option1="8" Value1="0" Option2="0" Value2="0" Time="1800" /> <!-- Seal of Sustenance -->
-		<Item Cat="13" Index="59" Option1="16" Value1="0" Option2="0" Value2="0" Time="1800" /> <!-- Seal of Mobility -->
+		<Item Cat="13" Index="43" Option1="6" Value1="0" Option2="0" Value2="0" Time="1" /> <!-- Seal of Ascension -->
+		<Item Cat="13" Index="44" Option1="6" Value1="0" Option2="7" Value2="150" Time="1" /> <!-- Seal of Wealth -->
+		<Item Cat="13" Index="45" Option1="8" Value1="0" Option2="0" Value2="0" Time="1" /> <!-- Seal of Sustenance -->
+		<Item Cat="13" Index="59" Option1="16" Value1="0" Option2="0" Value2="0" Time="1" /> <!-- Seal of Mobility -->
 	</Section>
 
 	<Section ID="3">
@@ -109,7 +109,7 @@
 	<!-- <Item Cat="13" Index="44" Option1="6" Value1="50" Option2="7" Value2="200" Time="1800" /> --> <!-- Seal of Wealth -->
 	<!-- <Item Cat="13" Index="45" Option1="8" Value1="0" Option2="0" Value2="0" Time="1800" /> --> <!-- Seal of Sustenance -->
 	<!-- <Item Cat="13" Index="59" Option1="16" Value1="0" Option2="0" Value2="0" Time="1800" /> --> <!-- Seal of Mobility -->
-		<Item Cat="13" Index="116" Option1="7" Value1="150" Option2="0" Value2="0" Time="1800" /> <!-- Seal of Wealth -->
+		<Item Cat="13" Index="116" Option1="7" Value1="0" Option2="0" Value2="0" Time="1" /> <!-- Seal of Wealth -->
 	</Section>	
 
 	<Section ID="4">
@@ -150,8 +150,8 @@
 	</Section>
 
 	<Section ID="14">
-		<Item Cat="13" Index="93" Option1="6" Value1="50" Option2="0" Value2="0" Time="1800" /> <!-- Master Seal of Ascension -->
-		<Item Cat="13" Index="94" Option1="6" Value1="100" Option2="7" Value2="150" Time="1800" /> <!-- Master Seal of Wealth -->
+		<Item Cat="13" Index="93" Option1="6" Value1="0" Option2="0" Value2="0" Time="1" /> <!-- Master Seal of Ascension -->
+		<Item Cat="13" Index="94" Option1="6" Value1="0" Option2="7" Value2="150" Time="1" /> <!-- Master Seal of Wealth -->
 	</Section>
 
 	<Section ID="15">
@@ -279,31 +279,31 @@
 	<!-- </Section> -->
 
 	<Section ID="57">
-		<Item Cat="13" Index="177" Option1="87" Value1="50" Option2="0" Value2="0" Time="-10" /> <!-- Talisman of Ascension I -->
+		<Item Cat="13" Index="177" Option1="87" Value1="0" Option2="0" Value2="0" Time="-10" /> <!-- Talisman of Ascension I -->
 	</Section>
 	
 	<Section ID="83">
-		<Item Cat="13" Index="476" Option1="87" Value1="50" Option2="0" Value2="0" Time="-10" /> <!-- [PC] Talisman of Ascension II -->
+		<Item Cat="13" Index="476" Option1="87" Value1="0" Option2="0" Value2="0" Time="-10" /> <!-- [PC] Talisman of Ascension II -->
 	</Section>
 
 	<Section ID="58">
-		<Item Cat="13" Index="178" Option1="87" Value1="100" Option2="0" Value2="0" Time="-10" /> <!-- Talisman of Ascension II -->
+		<Item Cat="13" Index="178" Option1="87" Value1="0" Option2="0" Value2="0" Time="-10" /> <!-- Talisman of Ascension II -->
 	</Section>
 
 	<Section ID="59">
-		<Item Cat="13" Index="179" Option1="87" Value1="200" Option2="0" Value2="0" Time="-10" /> <!-- Talisman of Ascension III -->
+		<Item Cat="13" Index="179" Option1="87" Value1="0" Option2="0" Value2="0" Time="-10" /> <!-- Talisman of Ascension III -->
 	</Section>
 
 	<Section ID="60">
-		<Item Cat="13" Index="180" Option1="6" Value1="100" Option2="0" Value2="0" Time="0" /> <!-- Seal of Ascension II -->
+		<Item Cat="13" Index="180" Option1="6" Value1="0" Option2="0" Value2="0" Time="0" /> <!-- Seal of Ascension II -->
 	</Section>
 
 	<Section ID="61">
-		<Item Cat="13" Index="181" Option1="6" Value1="100" Option2="0" Value2="0" Time="0" /> <!-- Master Seal of Ascension II -->
+		<Item Cat="13" Index="181" Option1="6" Value1="0" Option2="0" Value2="0" Time="0" /> <!-- Master Seal of Ascension II -->
 	</Section>
 
 	<Section ID="62">
-		<Item Cat="14" Index="224" Option1="88" Value1="200" Option2="0" Value2="0" Time="1800" /> <!-- Blessing of Light -->
+		<Item Cat="14" Index="224" Option1="88" Value1="0" Option2="0" Value2="0" Time="1" /> <!-- Blessing of Light -->
 	</Section>
 	
 	<Section ID="63">
@@ -367,23 +367,23 @@
 	</Section>
 	
 	<Section ID="77">
-		<Item Cat="14" Index="263" Option1="88" Value1="50" Option2="0" Value2="0"	Time="1800" /> <!-- Bless of Light (Low Grade) -->
+		<Item Cat="14" Index="263" Option1="88" Value1="0" Option2="0" Value2="0"	Time="1" /> <!-- Bless of Light (Low Grade) -->
 	</Section>
 	
 	<Section ID="78">
-		<Item Cat="14" Index="264" Option1="88" Value1="100" Option2="0" Value2="0"	Time="1800" /> <!-- Bless of Light (Middle Grade) -->
+		<Item Cat="14" Index="264" Option1="88" Value1="0" Option2="0" Value2="0"	Time="1" /> <!-- Bless of Light (Middle Grade) -->
 	</Section>
 	
 	<Section ID="79">
-		<Item Cat="14" Index="371" Option1="88" Value1="200" Option2="0" Value2="0" Time="1800" /> <!-- [Bound] Bless of Light (Higher) -->
+		<Item Cat="14" Index="371" Option1="88" Value1="0" Option2="0" Value2="0" Time="1" /> <!-- [Bound] Bless of Light (Higher) -->
 	</Section>
 	
 	<Section ID="80">
-		<Item Cat="14" Index="372" Option1="88" Value1="100" Option2="0" Value2="0" Time="1800" /> <!-- [Bound] Bless of Light (Medium) -->
+		<Item Cat="14" Index="372" Option1="88" Value1="0" Option2="0" Value2="0" Time="1" /> <!-- [Bound] Bless of Light (Medium) -->
 	</Section>
 	
 	<Section ID="81">
-		<Item Cat="14" Index="373" Option1="88" Value1="50" Option2="0" Value2="0" Time="1800" /> <!-- [Bound] Bless of Light (Lower) -->
+		<Item Cat="14" Index="373" Option1="88" Value1="0" Option2="0" Value2="0" Time="1" /> <!-- [Bound] Bless of Light (Lower) -->
 	</Section>
 	
 	<Section ID="84">
