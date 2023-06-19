@@ -77,7 +77,7 @@
 	<ActiveDay Sun="1" Mon="1" Tue="1" Wed="0" Thu="1" Fri="1" Sat="1" />
 	
 	<Schedule>
-		<Start Hour="23" Minute="0" Unk="0" />
+		<Start Hour="19" Minute="0" Unk="0" />
 	</Schedule>
 	
 	<ObeliskInformation>

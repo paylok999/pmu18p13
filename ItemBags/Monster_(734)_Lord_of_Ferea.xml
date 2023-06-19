@@ -150,11 +150,6 @@
 			<Item Cat="12" Index="241" ItemMinLevel="2" ItemMaxLevel="4" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="-1" />
 			<Item Cat="12" Index="251" ItemMinLevel="2" ItemMaxLevel="4" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="-1" />
 		</Drop>
-		<Drop Rate="10" Type="0" Count="1">
-			<Item Cat="12" Index="306" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="-2" ElementalItem="-1" />  <!-- Runedil's Goldentune Harp -->
-			<Item Cat="12" Index="307" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="-2" ElementalItem="-1" />  <!-- Lemuria's Orb -->
-			<Item Cat="12" Index="308" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="-2" ElementalItem="-1" />  <!-- Norrwen's Bloodstring Lyra -->
-		</Drop>
 	</DropAllow>
 </DropSection>
 </ItemBag>
