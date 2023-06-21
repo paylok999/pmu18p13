@@ -472,6 +472,7 @@ function LoadItemBag() -- Bags Load
 	
 -- Bags for purpose of Imperial Guardian Event
 	AddItemBag(BAG_EVENT, 700,0, 'Event_ImperialGuardian(1)_Reward')
+	AddItemBag(BAG_EVENT, 701,0, 'Event_ImperialGuardian(2)_Reward')
 	
 -- Bags for purpose of Play Time event
 	AddItemBag(BAG_EVENT, 800,0, 'Event_PlayTime_Round_1')

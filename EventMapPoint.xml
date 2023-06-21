@@ -54,10 +54,10 @@
 
 <EventMapPoint>
 	<EntryDailyLimit>
-		<Event Type="0" Count="10" Name="Chaos Castle" />
-		<Event Type="1" Count="10" Name="Blood Castle" />
-		<Event Type="2" Count="10" Name="Devil's Square" />
-		<Event Type="3" Count="10" Name="Imperial Fort" />
+		<Event Type="0" Count="4" Name="Chaos Castle" />
+		<Event Type="1" Count="4" Name="Blood Castle" />
+		<Event Type="2" Count="4" Name="Devil's Square" />
+		<Event Type="3" Count="4" Name="Imperial Fort" />
 		<Event Type="5" Count="1" Name="Illusion Temple" />
 		<Event Type="6" Count="10" Name="Doppelganger" />
 		<Event Type="7" Count="1" Name="Boss Battle Together" />
@@ -71,12 +71,12 @@
 	
 	<RewardItemCount>
 		<Event Level="0" CC="0" BC="0" DS="0" DG="0" IT="0" />
-		<Event Level="1" CC="2" BC="2" DS="2" DG="2" IT="2" />
-		<Event Level="2" CC="2" BC="2" DS="2" DG="2" IT="2" />
-		<Event Level="3" CC="2" BC="2" DS="2" DG="2" IT="2" />
-		<Event Level="4" CC="2" BC="2" DS="2" DG="2" IT="2" />
-		<Event Level="5" CC="2" BC="2" DS="2" DG="2" IT="-1" />
-		<Event Level="6" CC="2" BC="2" DS="2" DG="2" IT="-1" />
+		<Event Level="1" CC="1" BC="1" DS="1" DG="1" IT="1" />
+		<Event Level="2" CC="1" BC="1" DS="1" DG="1" IT="1" />
+		<Event Level="3" CC="1" BC="1" DS="1" DG="1" IT="1" />
+		<Event Level="4" CC="1" BC="1" DS="1" DG="1" IT="1" />
+		<Event Level="5" CC="1" BC="1" DS="1" DG="1" IT="-1" />
+		<Event Level="6" CC="1" BC="1" DS="1" DG="1" IT="-1" />
 	</RewardItemCount>
 	
 	<PointsReward>

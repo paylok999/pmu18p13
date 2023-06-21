@@ -42,6 +42,7 @@
 
 	<EventEntry>
 		<Event Level="1" ReqLevel="1000" />
+		<Event Level="2" ReqLevel="1000" />
 	</EventEntry>
 	
 	<ElementInfo>
