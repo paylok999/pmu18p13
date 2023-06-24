@@ -95,7 +95,7 @@
 -->
 
 <ExpSystem CalcType="0" NonVipAdjuster="0.0" PartyExpGainRange="9" DebugMode="0">
-	<StaticExp Normal="10000000.0" Master="10000000.0" Majestic="100000.0" Event="0.0" Quest="1.0" OffLevel="1.0" />
+	<StaticExp Normal="10000000.0" Master="10000000.0" Majestic="1000000000.0" Event="0.0" Quest="1.0" OffLevel="1.0" />
 	<PartyRegAddExp One="1.0" Two="1.3" Three="1.6" Four="1.9" Five="2.2" />
 	<PartySetAddExp Two="1.0" Three="1.7" Four="2.05" Five="2.4" />
 	
@@ -109,12 +109,12 @@
 		<Range MinReset="0" MaxReset="0" MinLevel="701" MaxLevel="750" NormalExp="30000.0" MasterExp="10000000.5" MajesticExp="20000.5" OffLevelExp="1.0"/>
 		<Range MinReset="0" MaxReset="0" MinLevel="751" MaxLevel="800" NormalExp="30000.0" MasterExp="10000000.7" MajesticExp="10000000.7" OffLevelExp="1.0"/>
 		<Range MinReset="0" MaxReset="0" MinLevel="801" MaxLevel="901" NormalExp="30000.0" MasterExp="10000000.9" MajesticExp="10000000.9" OffLevelExp="1.0"/>
-		<Range MinReset="0" MaxReset="0" MinLevel="902" MaxLevel="1001" NormalExp="30000.0" MasterExp="30000.9" MajesticExp="10000000.9" OffLevelExp="1.0"/>
-		<Range MinReset="0" MaxReset="0" MinLevel="1002" MaxLevel="1101" NormalExp="30000.0" MasterExp="30000.9" MajesticExp="10000000.9" OffLevelExp="1.0"/>
-		<Range MinReset="0" MaxReset="0" MinLevel="1102" MaxLevel="1201" NormalExp="30000.0" MasterExp="30000.9" MajesticExp="5000000.9" OffLevelExp="1.0"/>
-		<Range MinReset="0" MaxReset="0" MinLevel="1202" MaxLevel="1301" NormalExp="30000.0" MasterExp="30000.9" MajesticExp="2500000.9" OffLevelExp="1.0"/>
-		<Range MinReset="0" MaxReset="0" MinLevel="1302" MaxLevel="1401" NormalExp="30000.0" MasterExp="30000.9" MajesticExp="1000000.9" OffLevelExp="1.0"/>
-		<Range MinReset="0" MaxReset="0" MinLevel="1402" MaxLevel="MAX" NormalExp="10000.0" MasterExp="10000.9" MajesticExp="100000.9" OffLevelExp="1.0"/>
+		<Range MinReset="0" MaxReset="0" MinLevel="902" MaxLevel="1001" NormalExp="30000.0" MasterExp="30000.9" MajesticExp="1000000000.9" OffLevelExp="1.0"/>
+		<Range MinReset="0" MaxReset="0" MinLevel="1002" MaxLevel="1101" NormalExp="30000.0" MasterExp="30000.9" MajesticExp="1000000000.9" OffLevelExp="1.0"/>
+		<Range MinReset="0" MaxReset="0" MinLevel="1102" MaxLevel="1201" NormalExp="30000.0" MasterExp="30000.9" MajesticExp="1000000000.9" OffLevelExp="1.0"/>
+		<Range MinReset="0" MaxReset="0" MinLevel="1202" MaxLevel="1301" NormalExp="30000.0" MasterExp="30000.9" MajesticExp="1000000000.9" OffLevelExp="1.0"/>
+		<Range MinReset="0" MaxReset="0" MinLevel="1302" MaxLevel="1401" NormalExp="30000.0" MasterExp="30000.9" MajesticExp="1000000000.9" OffLevelExp="1.0"/>
+		<Range MinReset="0" MaxReset="0" MinLevel="1402" MaxLevel="MAX" NormalExp="10000.0" MasterExp="10000.9" MajesticExp="1000000000.9" OffLevelExp="1.0"/>
 	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 		<Range MinReset="1" MaxReset="2" MinLevel="1" MaxLevel="50" NormalExp="1.1" MasterExp="1.0" MajesticExp="1.0" OffLevelExp="1.0"/>
 		<Range MinReset="1" MaxReset="2" MinLevel="51" MaxLevel="100" NormalExp="1.3" MasterExp="1.0" MajesticExp="1.0" OffLevelExp="1.0"/>

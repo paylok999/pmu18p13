@@ -78,11 +78,13 @@
   <DropItem MonsterMinLevel="110" MonsterMaxLevel="300" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="430" MinLevel="0" MaxLevel="0" Durability="0" Element="0" Duration="0" Rate="22500" Name="Elena's Letter" />
 	
  <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="40" MinLevel="0" MaxLevel="0" Durability="0" Element="0" Duration="0" Rate="10000" Name="Large Complex Potion" />
+ <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="11" MinLevel="1" MaxLevel="1" Durability="0" Element="0" Duration="0" Rate="10000" Name="Star of Sacred birth" />
   
   <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="12" Index="15" MinLevel="0" MaxLevel="0" Durability="0" Element="0" Duration="0" Rate="1000" Name="Jewel of Chaos" />
   <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Element="0" Duration="0" Rate="1000" Name="Jewel of Soul" />
   <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Element="0" Duration="0" Rate="1000" Name="Jewel of Bless" />
   <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Element="0" Duration="0" Rate="1000" Name="Jewel of Life" />
   <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="22" MinLevel="0" MaxLevel="0" Durability="0" Element="0" Duration="0" Rate="1000" Name="Jewel of Creation" />
-  <DropItem MonsterMinLevel="550" MonsterMaxLevel="560" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="41" MinLevel="0" MaxLevel="0" Durability="0" Element="0" Duration="0" Rate="1500" Name="gemstone" />
+  <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="41" MinLevel="0" MaxLevel="0" Durability="0" Element="0" Duration="0" Rate="1500" Name="gemstone" />
+  <DropItem MonsterMinLevel="170" MonsterMaxLevel="650" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="20" Index="43" MinLevel="0" MaxLevel="0" Durability="0" Element="0" Duration="0" Rate="3000" Name="BA Charm" />
 </AllMonsterItemDrop>
