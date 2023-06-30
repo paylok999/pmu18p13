@@ -97,11 +97,11 @@
 	<RewardSettings>
 		<Section ID="0" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="100" /> <!-- n/1000000 -->
 		<Section ID="1" SkillRate="5000" LuckRate="3500" OptionRate="500000" ExcRate="500000" /> <!-- n/1000000 -->
-		<Section ID="2" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="100" /> <!-- n/1000000 -->
-		<Section ID="3" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="100" /> <!-- n/1000000 -->
-		<Section ID="4" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="100" /> <!-- n/1000000 -->
-		<Section ID="5" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="100" /> <!-- n/1000000 -->
-		<Section ID="6" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="100" /> <!-- n/1000000 -->
+		<Section ID="2" SkillRate="5000" LuckRate="3500" OptionRate="500000" ExcRate="500000" /> <!-- n/1000000 -->
+		<Section ID="3" SkillRate="5000" LuckRate="3500" OptionRate="500000" ExcRate="500000" /> <!-- n/1000000 -->
+		<Section ID="4" SkillRate="5000" LuckRate="3500" OptionRate="500000" ExcRate="500000" /> <!-- n/1000000 -->
+		<Section ID="5" SkillRate="5000" LuckRate="3500" OptionRate="500000" ExcRate="500000" /> <!-- n/1000000 -->
+		<Section ID="6" SkillRate="5000" LuckRate="3500" OptionRate="500000" ExcRate="500000" /> <!-- n/1000000 -->
 		<Section ID="7" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="100" /> <!-- n/1000000 -->
 		<Section ID="8" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="100" /> <!-- n/1000000 -->
 		<Section ID="9" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="100" /> <!-- n/1000000 -->
@@ -143,6 +143,14 @@
 				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="21" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
 				<Item Cat="13" Index="22" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
 				<Item Cat="13" Index="23" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
@@ -157,6 +165,7 @@
 				<Item Cat="13" Index="174" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" />
 				<Item Cat="13" Index="175" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" />
 				<Item Cat="13" Index="14" MinLevel="0" MaxLevel="1" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" Durability="1"/> <!-- loch -->
+				<Item Cat="14" Index="342" MinLevel="0" MaxLevel="1" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- steelofheaven -->
 				<Item Cat="14" Index="345" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- Mysterious Stone -->
 				<Item Cat="13" Index="510" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="2"/> <!-- 3vacancies -->
 				<Item Cat="14" Index="485" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- ruud 500 -->
@@ -185,6 +194,18 @@
 				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="21" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
 				<Item Cat="13" Index="22" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
 				<Item Cat="13" Index="23" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
@@ -199,6 +220,7 @@
 				<Item Cat="13" Index="174" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" />
 				<Item Cat="13" Index="175" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" />
 				<Item Cat="13" Index="14" MinLevel="0" MaxLevel="1" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" Durability="1"/> <!-- loch -->
+				<Item Cat="14" Index="342" MinLevel="0" MaxLevel="1" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- steelofheaven -->
 				<Item Cat="14" Index="345" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- Mysterious Stone -->
 				<Item Cat="13" Index="510" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="2"/> <!-- 3vacancies -->
 				<Item Cat="14" Index="485" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- ruud 500 -->
@@ -227,6 +249,18 @@
 				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="21" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
 				<Item Cat="13" Index="22" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
 				<Item Cat="13" Index="23" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
@@ -241,6 +275,7 @@
 				<Item Cat="13" Index="174" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" />
 				<Item Cat="13" Index="175" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" />
 				<Item Cat="13" Index="14" MinLevel="0" MaxLevel="1" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" Durability="1"/> <!-- loch -->
+				<Item Cat="14" Index="342" MinLevel="0" MaxLevel="1" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- steelofheaven -->
 				<Item Cat="14" Index="345" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- Mysterious Stone -->
 				<Item Cat="13" Index="510" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="2"/> <!-- 3vacancies -->
 				<Item Cat="14" Index="485" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- ruud 500 -->
@@ -269,6 +304,18 @@
 				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="21" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
 				<Item Cat="13" Index="22" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
 				<Item Cat="13" Index="23" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
@@ -283,6 +330,7 @@
 				<Item Cat="13" Index="174" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" />
 				<Item Cat="13" Index="175" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" />
 				<Item Cat="13" Index="14" MinLevel="0" MaxLevel="1" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" Durability="1"/> <!-- loch -->
+				<Item Cat="14" Index="342" MinLevel="0" MaxLevel="1" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- steelofheaven -->
 				<Item Cat="14" Index="345" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- Mysterious Stone -->
 				<Item Cat="13" Index="510" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="2"/> <!-- 3vacancies -->
 				<Item Cat="14" Index="485" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- ruud 500 -->
@@ -311,6 +359,18 @@
 				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="21" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
 				<Item Cat="13" Index="22" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
 				<Item Cat="13" Index="23" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
@@ -325,6 +385,7 @@
 				<Item Cat="13" Index="174" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" />
 				<Item Cat="13" Index="175" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" />
 				<Item Cat="13" Index="14" MinLevel="0" MaxLevel="1" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" Durability="1"/> <!-- loch -->
+				<Item Cat="14" Index="342" MinLevel="0" MaxLevel="1" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- steelofheaven -->
 				<Item Cat="14" Index="345" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- Mysterious Stone -->
 				<Item Cat="13" Index="510" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="2"/> <!-- 3vacancies -->
 				<Item Cat="14" Index="485" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- ruud 500 -->
@@ -353,6 +414,18 @@
 				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
+				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="21" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
 				<Item Cat="13" Index="22" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
 				<Item Cat="13" Index="23" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
@@ -367,6 +440,7 @@
 				<Item Cat="13" Index="174" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" />
 				<Item Cat="13" Index="175" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" />
 				<Item Cat="13" Index="14" MinLevel="0" MaxLevel="1" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" Durability="1"/> <!-- loch -->
+				<Item Cat="14" Index="342" MinLevel="0" MaxLevel="1" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- steelofheaven -->
 				<Item Cat="14" Index="345" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- Mysterious Stone -->
 				<Item Cat="13" Index="510" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="2"/> <!-- 3vacancies -->
 				<Item Cat="14" Index="485" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- ruud 500 -->
@@ -421,5 +495,6 @@
 		<Item Cat="12" Index="457" Name="Jewel of Harmony" />
 		<Item Cat="14" Index="96" Name="Jewel of Harmony" />
 		<Item Cat="14" Index="190" Name="Jewel of Harmony" />
+		<Item Cat="14" Index="342" Name="Jewel of Harmony" />
 	</RewardNotificationItems>
 </MiracleBoxShop>	

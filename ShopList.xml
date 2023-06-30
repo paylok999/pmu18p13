@@ -119,7 +119,7 @@
 	<!-- Acheron -->
 		<Shop NPCIndex="583" MapNumber="91" PosX="55" PosY="195" Dir="2" VipType="-1" GMShop="1" FileName="NPC(583)_Jin.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
 	<!-- Arca Battle -->
-		<Shop NPCIndex="604" MapNumber="92" PosX="56" PosY="202" Dir="2" VipType="-1" GMShop="1" FileName="NPC(604)_Jin.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
+		<Shop NPCIndex="604" MapNumber="92" PosX="56" PosY="202" Dir="2" VipType="-1" GMShop="0" FileName="NPC(604)_Jin.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
 	<!-- Boss Battle -->	
 		<Shop NPCIndex="583" MapNumber="139" PosX="119" PosY="115" Dir="2" VipType="-1" GMShop="1" FileName="NPC(583)_Jin.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
 	<!-- Battle Core -->

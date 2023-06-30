@@ -58,33 +58,33 @@
 	
 	<WordsList>
 		<Difficulty RoundsCount="4" ScrambleType="0" ItemBagID="400">
-			<Word Data="scramble" Hint="" />
-			<Word Data="alcohol" Hint="" />
-			<Word Data="programmer" Hint="" />
-			<Word Data="calculator" Hint="" />
-			<Word Data="computer" Hint="" />
-			<Word Data="spaghetti" Hint="" />
+			<Word Data="hornoffenrir" Hint="" />
+			<Word Data="crystalsword" Hint="" />
+			<Word Data="chaosdragonaxe" Hint="" />
+			<Word Data="priestjames" Hint="" />
+			<Word Data="crescentaxe" Hint="" />
+			<Word Data="chaoscastle" Hint="" />
 			<Word Data="camera" Hint="" />
-			<Word Data="mobile" Hint="" />
-			<Word Data="bible" Hint="" />
-			<Word Data="lighter" Hint="" />
-			<Word Data="cinema" Hint="" />
-			<Word Data="forest" Hint="" />
+			<Word Data="goldentantalos" Hint="" />
+			<Word Data="billofbalrog" Hint="" />
+			<Word Data="lightspear" Hint="" />
+			<Word Data="devilimp" Hint="" />
+			<Word Data="wingofsatan" Hint="" />
 		</Difficulty>
 		
 		<Difficulty RoundsCount="4" ScrambleType="1" ItemBagID="401">
-			<Word Data="difficulty" Hint="" />
-			<Word Data="laser" Hint="" />
-			<Word Data="island" Hint="" />
-			<Word Data="romeo" Hint="" />
-			<Word Data="universe" Hint="" />
-			<Word Data="pillow" Hint="" />
-			<Word Data="starship" Hint="" />
-			<Word Data="original" Hint="" />
-			<Word Data="vegetable" Hint="" />
-			<Word Data="fruits" Hint="" />
-			<Word Data="newspaper" Hint="" />
-			<Word Data="wire" Hint="" />
+			<Word Data="expirationday" Hint="" />
+			<Word Data="seasoneighteen" Hint="" />
+			<Word Data="acquagoldxbow" Hint="" />
+			<Word Data="sapphirering" Hint="" />
+			<Word Data="gladiatorshonor" Hint="" />
+			<Word Data="oldscroll" Hint="" />
+			<Word Data="armorofguardsman" Hint="" />
+			<Word Data="transformationring" Hint="" />
+			<Word Data="illusionsorcerercovenant" Hint="" />
+			<Word Data="sealofmobility" Hint="" />
+			<Word Data="brownpandaring" Hint="" />
+			<Word Data="talismanofwingofdespair" Hint="" />
 		</Difficulty>
 	</WordsList>
 </ScrambleWords>

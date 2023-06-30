@@ -137,6 +137,9 @@ function LoadItemBag() -- Bags Load
 	AddItemBag(BAG_DROP, MakeItemID(14,34), 1, 'Item_(14,34,1)_Dark_Blue_Candy_Box') -- DropFunction /1/
 	AddItemBag(BAG_DROP, MakeItemID(14,45), 0, 'Item_(14,45,0)_Pumpkin_of_Luck') -- DropFunction /1/
 	AddItemBag(BAG_DROP, MakeItemID(14,52), 0, 'Item_(14,52,0)_GM_Gift_Box') -- DropFunction /1/
+	AddItemBag(BAG_DROP, MakeItemID(14,52), 1, 'Item_(14,52,1)_GM_Gift_Box') -- DropFunction /1/
+	AddItemBag(BAG_DROP, MakeItemID(14,52), 2, 'Item_(14,52,2)_GM_Gift_Box') -- DropFunction /1/
+	AddItemBag(BAG_DROP, MakeItemID(14,52), 3, 'Item_(14,52,3)_GM_Gift_Box') -- DropFunction /1/
 	AddItemBag(BAG_DROP, MakeItemID(14,55), 0, 'Item_(14,55,0)_Green_Chaos_Box') -- DropFunction /1/
 	AddItemBag(BAG_DROP, MakeItemID(14,56), 0, 'Item_(14,56,0)_Red_Chaos_Box') -- DropFunction /1/
 	AddItemBag(BAG_DROP, MakeItemID(14,57), 0, 'Item_(14,57,0)_Purple_Chaos_Box') -- DropFunction /1/
@@ -365,6 +368,7 @@ function LoadItemBag() -- Bags Load
 	AddItemBag(BAG_MONSTER, 0,848,'Monster_(848)_Elite_Scorched_Warrior') -- DropFunction /2/
 	AddItemBag(BAG_MONSTER, 0,849,'Monster_(849)_Elite_Scorched_Assassins') -- DropFunction /2/
 	AddItemBag(BAG_MONSTER, 0,850,'Monster_(850)_Elite_Scorched Wizard') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,135,'Monster_(135)_WhiteWizard') -- DropFunction /2/
 
 -- ====================================================================
 -- EventBags -- BagType, EventID, 0, 'FileName'

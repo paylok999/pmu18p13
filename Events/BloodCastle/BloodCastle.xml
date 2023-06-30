@@ -98,11 +98,11 @@
 	<EventSettings>
 		<Castle Level="0" StatueHP="65000" GateHP="150000" /> <!-- Blood Castle 1 -->
 		<Castle Level="1" StatueHP="105000" GateHP="205000" /> <!-- Blood Castle 2 -->
-		<Castle Level="2" StatueHP="145000" GateHP="260000" /> <!-- Blood Castle 3 -->
-		<Castle Level="3" StatueHP="185000" GateHP="325000" /> <!-- Blood Castle 4 -->
-		<Castle Level="4" StatueHP="225000" GateHP="400000" /> <!-- Blood Castle 5 -->
-		<Castle Level="5" StatueHP="265000" GateHP="480000" /> <!-- Blood Castle 6 -->
-		<Castle Level="6" StatueHP="305000" GateHP="565000" /> <!-- Blood Castle 7 -->
+		<Castle Level="2" StatueHP="14500000" GateHP="26000000" /> <!-- Blood Castle 3 -->
+		<Castle Level="3" StatueHP="18500000" GateHP="32500000" /> <!-- Blood Castle 4 -->
+		<Castle Level="4" StatueHP="22500000" GateHP="40000000" /> <!-- Blood Castle 5 -->
+		<Castle Level="5" StatueHP="26500000" GateHP="48000000" /> <!-- Blood Castle 6 -->
+		<Castle Level="6" StatueHP="30500000" GateHP="56500000" /> <!-- Blood Castle 7 -->
 	</EventSettings>
 
 	<RewardExpSettings>

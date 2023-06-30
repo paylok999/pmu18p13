@@ -270,6 +270,7 @@
 		<Item Cat="20" Index="60" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="50000" /> <!-- Bloodangel Pants of Sealed Twilight -->
 		<Item Cat="20" Index="61" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="50000" /> <!-- Bloodangel Boots of Sealed Twilight -->
 		<Item Cat="5" Index="73" Level="0" Skill="0" Luck="-1" Option="0" Exc="-10" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="100000" /> <!-- Blood Angel Magic Book -->
+		<Item Cat="5" Index="41" Level="0" Skill="0" Luck="-1" Option="0" Exc="-10" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="100000" /> <!-- Bloodangel Staff -->
 		<Item Cat="15" Index="49" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="1000" /> <!-- Scroll of Spear Storm -->
 	</Character>
 	<Character Class="12" Name="Lemuria Mage">

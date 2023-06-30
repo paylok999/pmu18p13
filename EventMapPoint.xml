@@ -70,7 +70,7 @@
 	</RewardCondition>
 	
 	<RewardItemCount>
-		<Event Level="0" CC="0" BC="0" DS="0" DG="0" IT="0" />
+		<Event Level="0" CC="1" BC="1" DS="0" DG="1" IT="1" />
 		<Event Level="1" CC="1" BC="1" DS="1" DG="1" IT="1" />
 		<Event Level="2" CC="1" BC="1" DS="1" DG="1" IT="1" />
 		<Event Level="3" CC="1" BC="1" DS="1" DG="1" IT="1" />
