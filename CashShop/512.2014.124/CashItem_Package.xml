@@ -23,64 +23,64 @@
 	<Package GUID="9" ID="0" ItemSequence="9" UniqueID1="35" UniqueID2="57" Description="Talisman of Chaos Assembly" />
 	<Package GUID="10" ID="0" ItemSequence="10" UniqueID1="35" UniqueID2="57" Description="Talisman of Chaos Assembly" />
 	<Package GUID="11" ID="0" ItemSequence="11" UniqueID1="35" UniqueID2="57" Description="Talisman of Chaos Assembly" />
-	<Package GUID="0" ID="5" ItemSequence="0" UniqueID1="1131" UniqueID2="1696" Description="Ruud Box (2000)" />
-	<Package GUID="1" ID="5" ItemSequence="1" UniqueID1="1131" UniqueID2="1696" Description="Ruud Box (2000)" />
-	<Package GUID="2" ID="5" ItemSequence="2" UniqueID1="1131" UniqueID2="1696" Description="Ruud Box (2000)" />
-	<Package GUID="3" ID="5" ItemSequence="3" UniqueID1="1131" UniqueID2="1696" Description="Ruud Box (2000)" />
-	<Package GUID="4" ID="5" ItemSequence="4" UniqueID1="1131" UniqueID2="1696" Description="Ruud Box (2000)" />
-	<Package GUID="5" ID="5" ItemSequence="5" UniqueID1="1131" UniqueID2="1696" Description="Ruud Box (2000)" />
-	<Package GUID="6" ID="5" ItemSequence="6" UniqueID1="1131" UniqueID2="1696" Description="Ruud Box (2000)" />
-	<Package GUID="7" ID="5" ItemSequence="7" UniqueID1="1131" UniqueID2="1696" Description="Ruud Box (2000)" />
-	<Package GUID="8" ID="5" ItemSequence="8" UniqueID1="1131" UniqueID2="1696" Description="Ruud Box (2000)" />
-	<Package GUID="9" ID="5" ItemSequence="9" UniqueID1="1131" UniqueID2="1696" Description="Ruud Box (2000)" />
-	<Package GUID="10" ID="5" ItemSequence="10" UniqueID1="1131" UniqueID2="1696" Description="Ruud Box (2000)" />
-	<Package GUID="11" ID="5" ItemSequence="11" UniqueID1="1131" UniqueID2="1696" Description="Ruud Box (2000)" />
-	<Package GUID="0" ID="8" ItemSequence="0" UniqueID1="1146" UniqueID2="1718" Description="Ruud Box (3000)" />
-	<Package GUID="1" ID="8" ItemSequence="1" UniqueID1="1146" UniqueID2="1718" Description="Ruud Box (3000)" />
-	<Package GUID="2" ID="8" ItemSequence="2" UniqueID1="1146" UniqueID2="1718" Description="Ruud Box (3000)" />
-	<Package GUID="3" ID="8" ItemSequence="3" UniqueID1="1146" UniqueID2="1718" Description="Ruud Box (3000)" />
-	<Package GUID="4" ID="8" ItemSequence="4" UniqueID1="1146" UniqueID2="1718" Description="Ruud Box (3000)" />
-	<Package GUID="5" ID="8" ItemSequence="5" UniqueID1="1146" UniqueID2="1718" Description="Ruud Box (3000)" />
-	<Package GUID="6" ID="8" ItemSequence="6" UniqueID1="1146" UniqueID2="1718" Description="Ruud Box (3000)" />
-	<Package GUID="7" ID="8" ItemSequence="7" UniqueID1="1146" UniqueID2="1718" Description="Ruud Box (3000)" />
-	<Package GUID="8" ID="8" ItemSequence="8" UniqueID1="1146" UniqueID2="1718" Description="Ruud Box (3000)" />
-	<Package GUID="9" ID="8" ItemSequence="9" UniqueID1="1146" UniqueID2="1718" Description="Ruud Box (3000)" />
-	<Package GUID="10" ID="8" ItemSequence="10" UniqueID1="1146" UniqueID2="1718" Description="Ruud Box (3000)" />
-	<Package GUID="11" ID="8" ItemSequence="11" UniqueID1="1146" UniqueID2="1718" Description="Ruud Box (3000)" />
-	<Package GUID="0" ID="10" ItemSequence="0" UniqueID1="1159" UniqueID2="1744" Description="Talisman of Chaos Assembly" />
-	<Package GUID="1" ID="10" ItemSequence="1" UniqueID1="1159" UniqueID2="1744" Description="Talisman of Chaos Assembly" />
-	<Package GUID="2" ID="10" ItemSequence="2" UniqueID1="1159" UniqueID2="1744" Description="Talisman of Chaos Assembly" />
-	<Package GUID="3" ID="10" ItemSequence="3" UniqueID1="1159" UniqueID2="1744" Description="Talisman of Chaos Assembly" />
-	<Package GUID="4" ID="10" ItemSequence="4" UniqueID1="1159" UniqueID2="1744" Description="Talisman of Chaos Assembly" />
-	<Package GUID="5" ID="10" ItemSequence="5" UniqueID1="1159" UniqueID2="1744" Description="Talisman of Chaos Assembly" />
-	<Package GUID="6" ID="10" ItemSequence="6" UniqueID1="1159" UniqueID2="1744" Description="Talisman of Chaos Assembly" />
-	<Package GUID="7" ID="10" ItemSequence="7" UniqueID1="1159" UniqueID2="1744" Description="Talisman of Chaos Assembly" />
-	<Package GUID="8" ID="10" ItemSequence="8" UniqueID1="1159" UniqueID2="1744" Description="Talisman of Chaos Assembly" />
-	<Package GUID="9" ID="10" ItemSequence="9" UniqueID1="1159" UniqueID2="1744" Description="Talisman of Chaos Assembly" />
-	<Package GUID="10" ID="10" ItemSequence="10" UniqueID1="1159" UniqueID2="1744" Description="Talisman of Chaos Assembly" />
-	<Package GUID="11" ID="10" ItemSequence="11" UniqueID1="1159" UniqueID2="1744" Description="Talisman of Chaos Assembly" />
-	<Package GUID="0" ID="11" ItemSequence="0" UniqueID1="1150" UniqueID2="1726" Description="Elemental Talisman of Chaos" />
-	<Package GUID="1" ID="11" ItemSequence="1" UniqueID1="1150" UniqueID2="1726" Description="Elemental Talisman of Chaos" />
-	<Package GUID="2" ID="11" ItemSequence="2" UniqueID1="1150" UniqueID2="1726" Description="Elemental Talisman of Chaos" />
-	<Package GUID="3" ID="11" ItemSequence="3" UniqueID1="1150" UniqueID2="1726" Description="Elemental Talisman of Chaos" />
-	<Package GUID="4" ID="11" ItemSequence="4" UniqueID1="1150" UniqueID2="1726" Description="Elemental Talisman of Chaos" />
-	<Package GUID="5" ID="11" ItemSequence="5" UniqueID1="1150" UniqueID2="1726" Description="Elemental Talisman of Chaos" />
-	<Package GUID="6" ID="11" ItemSequence="6" UniqueID1="1150" UniqueID2="1726" Description="Elemental Talisman of Chaos" />
-	<Package GUID="7" ID="11" ItemSequence="7" UniqueID1="1150" UniqueID2="1726" Description="Elemental Talisman of Chaos" />
-	<Package GUID="8" ID="11" ItemSequence="8" UniqueID1="1150" UniqueID2="1726" Description="Elemental Talisman of Chaos" />
-	<Package GUID="9" ID="11" ItemSequence="9" UniqueID1="1150" UniqueID2="1726" Description="Elemental Talisman of Chaos" />
-	<Package GUID="10" ID="11" ItemSequence="10" UniqueID1="1150" UniqueID2="1726" Description="Elemental Talisman of Chaos" />
-	<Package GUID="11" ID="11" ItemSequence="11" UniqueID1="1150" UniqueID2="1726" Description="Elemental Talisman of Chaos" />
-	<Package GUID="0" ID="12" ItemSequence="0" UniqueID1="1147" UniqueID2="1720" Description="Mysterious Stone" />
-	<Package GUID="1" ID="12" ItemSequence="1" UniqueID1="1147" UniqueID2="1720" Description="Mysterious Stone" />
-	<Package GUID="2" ID="12" ItemSequence="2" UniqueID1="1147" UniqueID2="1720" Description="Mysterious Stone" />
-	<Package GUID="3" ID="12" ItemSequence="3" UniqueID1="1147" UniqueID2="1720" Description="Mysterious Stone" />
-	<Package GUID="4" ID="12" ItemSequence="4" UniqueID1="1147" UniqueID2="1720" Description="Mysterious Stone" />
-	<Package GUID="5" ID="12" ItemSequence="5" UniqueID1="1147" UniqueID2="1720" Description="Mysterious Stone" />
-	<Package GUID="6" ID="12" ItemSequence="6" UniqueID1="1147" UniqueID2="1720" Description="Mysterious Stone" />
-	<Package GUID="7" ID="12" ItemSequence="7" UniqueID1="1147" UniqueID2="1720" Description="Mysterious Stone" />
-	<Package GUID="8" ID="12" ItemSequence="8" UniqueID1="1147" UniqueID2="1720" Description="Mysterious Stone" />
-	<Package GUID="9" ID="12" ItemSequence="9" UniqueID1="1147" UniqueID2="1720" Description="Mysterious Stone" />
-	<Package GUID="10" ID="12" ItemSequence="10" UniqueID1="1147" UniqueID2="1720" Description="Mysterious Stone" />
-	<Package GUID="11" ID="12" ItemSequence="11" UniqueID1="1147" UniqueID2="1720" Description="Mysterious Stone" />
+	<Package GUID="0" ID="1" ItemSequence="0" UniqueID1="1159" UniqueID2="1744" Description="Talisman of Chaos Assembly" />
+	<Package GUID="1" ID="1" ItemSequence="1" UniqueID1="1159" UniqueID2="1744" Description="Talisman of Chaos Assembly" />
+	<Package GUID="2" ID="1" ItemSequence="2" UniqueID1="1159" UniqueID2="1744" Description="Talisman of Chaos Assembly" />
+	<Package GUID="3" ID="1" ItemSequence="3" UniqueID1="1159" UniqueID2="1744" Description="Talisman of Chaos Assembly" />
+	<Package GUID="4" ID="1" ItemSequence="4" UniqueID1="1159" UniqueID2="1744" Description="Talisman of Chaos Assembly" />
+	<Package GUID="5" ID="1" ItemSequence="5" UniqueID1="1159" UniqueID2="1744" Description="Talisman of Chaos Assembly" />
+	<Package GUID="6" ID="1" ItemSequence="6" UniqueID1="1159" UniqueID2="1744" Description="Talisman of Chaos Assembly" />
+	<Package GUID="7" ID="1" ItemSequence="7" UniqueID1="1159" UniqueID2="1744" Description="Talisman of Chaos Assembly" />
+	<Package GUID="8" ID="1" ItemSequence="8" UniqueID1="1159" UniqueID2="1744" Description="Talisman of Chaos Assembly" />
+	<Package GUID="9" ID="1" ItemSequence="9" UniqueID1="1159" UniqueID2="1744" Description="Talisman of Chaos Assembly" />
+	<Package GUID="10" ID="1" ItemSequence="10" UniqueID1="1159" UniqueID2="1744" Description="Talisman of Chaos Assembly" />
+	<Package GUID="11" ID="1" ItemSequence="11" UniqueID1="1159" UniqueID2="1744" Description="Talisman of Chaos Assembly" />
+	<Package GUID="0" ID="2" ItemSequence="0" UniqueID1="1131" UniqueID2="1696" Description="Ruud Box (2000)" />
+	<Package GUID="1" ID="2" ItemSequence="1" UniqueID1="1131" UniqueID2="1696" Description="Ruud Box (2000)" />
+	<Package GUID="2" ID="2" ItemSequence="2" UniqueID1="1131" UniqueID2="1696" Description="Ruud Box (2000)" />
+	<Package GUID="3" ID="2" ItemSequence="3" UniqueID1="1131" UniqueID2="1696" Description="Ruud Box (2000)" />
+	<Package GUID="4" ID="2" ItemSequence="4" UniqueID1="1131" UniqueID2="1696" Description="Ruud Box (2000)" />
+	<Package GUID="5" ID="2" ItemSequence="5" UniqueID1="1131" UniqueID2="1696" Description="Ruud Box (2000)" />
+	<Package GUID="6" ID="2" ItemSequence="6" UniqueID1="1131" UniqueID2="1696" Description="Ruud Box (2000)" />
+	<Package GUID="7" ID="2" ItemSequence="7" UniqueID1="1131" UniqueID2="1696" Description="Ruud Box (2000)" />
+	<Package GUID="8" ID="2" ItemSequence="8" UniqueID1="1131" UniqueID2="1696" Description="Ruud Box (2000)" />
+	<Package GUID="9" ID="2" ItemSequence="9" UniqueID1="1131" UniqueID2="1696" Description="Ruud Box (2000)" />
+	<Package GUID="10" ID="2" ItemSequence="10" UniqueID1="1131" UniqueID2="1696" Description="Ruud Box (2000)" />
+	<Package GUID="11" ID="2" ItemSequence="11" UniqueID1="1131" UniqueID2="1696" Description="Ruud Box (2000)" />
+	<Package GUID="0" ID="3" ItemSequence="0" UniqueID1="1146" UniqueID2="1718" Description="Ruud Box (3000)" />
+	<Package GUID="1" ID="3" ItemSequence="1" UniqueID1="1146" UniqueID2="1718" Description="Ruud Box (3000)" />
+	<Package GUID="2" ID="3" ItemSequence="2" UniqueID1="1146" UniqueID2="1718" Description="Ruud Box (3000)" />
+	<Package GUID="3" ID="3" ItemSequence="3" UniqueID1="1146" UniqueID2="1718" Description="Ruud Box (3000)" />
+	<Package GUID="4" ID="3" ItemSequence="4" UniqueID1="1146" UniqueID2="1718" Description="Ruud Box (3000)" />
+	<Package GUID="5" ID="3" ItemSequence="5" UniqueID1="1146" UniqueID2="1718" Description="Ruud Box (3000)" />
+	<Package GUID="6" ID="3" ItemSequence="6" UniqueID1="1146" UniqueID2="1718" Description="Ruud Box (3000)" />
+	<Package GUID="7" ID="3" ItemSequence="7" UniqueID1="1146" UniqueID2="1718" Description="Ruud Box (3000)" />
+	<Package GUID="8" ID="3" ItemSequence="8" UniqueID1="1146" UniqueID2="1718" Description="Ruud Box (3000)" />
+	<Package GUID="9" ID="3" ItemSequence="9" UniqueID1="1146" UniqueID2="1718" Description="Ruud Box (3000)" />
+	<Package GUID="10" ID="3" ItemSequence="10" UniqueID1="1146" UniqueID2="1718" Description="Ruud Box (3000)" />
+	<Package GUID="11" ID="3" ItemSequence="11" UniqueID1="1146" UniqueID2="1718" Description="Ruud Box (3000)" />
+	<Package GUID="0" ID="4" ItemSequence="0" UniqueID1="1150" UniqueID2="1726" Description="Elemental Talisman of Chaos" />
+	<Package GUID="1" ID="4" ItemSequence="1" UniqueID1="1150" UniqueID2="1726" Description="Elemental Talisman of Chaos" />
+	<Package GUID="2" ID="4" ItemSequence="2" UniqueID1="1150" UniqueID2="1726" Description="Elemental Talisman of Chaos" />
+	<Package GUID="3" ID="4" ItemSequence="3" UniqueID1="1150" UniqueID2="1726" Description="Elemental Talisman of Chaos" />
+	<Package GUID="4" ID="4" ItemSequence="4" UniqueID1="1150" UniqueID2="1726" Description="Elemental Talisman of Chaos" />
+	<Package GUID="5" ID="4" ItemSequence="5" UniqueID1="1150" UniqueID2="1726" Description="Elemental Talisman of Chaos" />
+	<Package GUID="6" ID="4" ItemSequence="6" UniqueID1="1150" UniqueID2="1726" Description="Elemental Talisman of Chaos" />
+	<Package GUID="7" ID="4" ItemSequence="7" UniqueID1="1150" UniqueID2="1726" Description="Elemental Talisman of Chaos" />
+	<Package GUID="8" ID="4" ItemSequence="8" UniqueID1="1150" UniqueID2="1726" Description="Elemental Talisman of Chaos" />
+	<Package GUID="9" ID="4" ItemSequence="9" UniqueID1="1150" UniqueID2="1726" Description="Elemental Talisman of Chaos" />
+	<Package GUID="10" ID="4" ItemSequence="10" UniqueID1="1150" UniqueID2="1726" Description="Elemental Talisman of Chaos" />
+	<Package GUID="11" ID="4" ItemSequence="11" UniqueID1="1150" UniqueID2="1726" Description="Elemental Talisman of Chaos" />
+	<Package GUID="0" ID="6" ItemSequence="0" UniqueID1="1147" UniqueID2="1720" Description="Mysterious Stone" />
+	<Package GUID="1" ID="6" ItemSequence="1" UniqueID1="1147" UniqueID2="1720" Description="Mysterious Stone" />
+	<Package GUID="2" ID="6" ItemSequence="2" UniqueID1="1147" UniqueID2="1720" Description="Mysterious Stone" />
+	<Package GUID="3" ID="6" ItemSequence="3" UniqueID1="1147" UniqueID2="1720" Description="Mysterious Stone" />
+	<Package GUID="4" ID="6" ItemSequence="4" UniqueID1="1147" UniqueID2="1720" Description="Mysterious Stone" />
+	<Package GUID="5" ID="6" ItemSequence="5" UniqueID1="1147" UniqueID2="1720" Description="Mysterious Stone" />
+	<Package GUID="6" ID="6" ItemSequence="6" UniqueID1="1147" UniqueID2="1720" Description="Mysterious Stone" />
+	<Package GUID="7" ID="6" ItemSequence="7" UniqueID1="1147" UniqueID2="1720" Description="Mysterious Stone" />
+	<Package GUID="8" ID="6" ItemSequence="8" UniqueID1="1147" UniqueID2="1720" Description="Mysterious Stone" />
+	<Package GUID="9" ID="6" ItemSequence="9" UniqueID1="1147" UniqueID2="1720" Description="Mysterious Stone" />
+	<Package GUID="10" ID="6" ItemSequence="10" UniqueID1="1147" UniqueID2="1720" Description="Mysterious Stone" />
+	<Package GUID="11" ID="6" ItemSequence="11" UniqueID1="1147" UniqueID2="1720" Description="Mysterious Stone" />
 </CashItemPackage>

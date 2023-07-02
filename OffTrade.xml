@@ -23,7 +23,7 @@
 // STRICTLY NO COMMENTS INSIDE TAGS
 -->
 
-<OffTrade Enable="0" MaxTime="-1">
+<OffTrade Enable="1" MaxTime="-1">
 	<Map Number="0"  Disable="1" /> <!-- Lorencia -->
 	<Map Number="1"  Disable="1" /> <!-- Dungeon (1 ~ 3) -->
 	<Map Number="2"  Disable="1" /> <!-- Devias -->

@@ -165,7 +165,7 @@
 				<Item Cat="13" Index="174" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" />
 				<Item Cat="13" Index="175" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" />
 				<Item Cat="13" Index="14" MinLevel="0" MaxLevel="1" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" Durability="1"/> <!-- loch -->
-				<Item Cat="14" Index="342" MinLevel="0" MaxLevel="1" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- steelofheaven -->
+				<Item Cat="14" Index="342" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- steelofheaven -->
 				<Item Cat="14" Index="345" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- Mysterious Stone -->
 				<Item Cat="13" Index="510" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="2"/> <!-- 3vacancies -->
 				<Item Cat="14" Index="485" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- ruud 500 -->
@@ -220,7 +220,7 @@
 				<Item Cat="13" Index="174" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" />
 				<Item Cat="13" Index="175" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" />
 				<Item Cat="13" Index="14" MinLevel="0" MaxLevel="1" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" Durability="1"/> <!-- loch -->
-				<Item Cat="14" Index="342" MinLevel="0" MaxLevel="1" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- steelofheaven -->
+				<Item Cat="14" Index="342" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- steelofheaven -->
 				<Item Cat="14" Index="345" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- Mysterious Stone -->
 				<Item Cat="13" Index="510" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="2"/> <!-- 3vacancies -->
 				<Item Cat="14" Index="485" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- ruud 500 -->
@@ -275,7 +275,7 @@
 				<Item Cat="13" Index="174" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" />
 				<Item Cat="13" Index="175" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" />
 				<Item Cat="13" Index="14" MinLevel="0" MaxLevel="1" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" Durability="1"/> <!-- loch -->
-				<Item Cat="14" Index="342" MinLevel="0" MaxLevel="1" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- steelofheaven -->
+				<Item Cat="14" Index="342" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- steelofheaven -->
 				<Item Cat="14" Index="345" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- Mysterious Stone -->
 				<Item Cat="13" Index="510" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="2"/> <!-- 3vacancies -->
 				<Item Cat="14" Index="485" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- ruud 500 -->
@@ -330,7 +330,7 @@
 				<Item Cat="13" Index="174" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" />
 				<Item Cat="13" Index="175" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" />
 				<Item Cat="13" Index="14" MinLevel="0" MaxLevel="1" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" Durability="1"/> <!-- loch -->
-				<Item Cat="14" Index="342" MinLevel="0" MaxLevel="1" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- steelofheaven -->
+				<Item Cat="14" Index="342" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- steelofheaven -->
 				<Item Cat="14" Index="345" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- Mysterious Stone -->
 				<Item Cat="13" Index="510" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="2"/> <!-- 3vacancies -->
 				<Item Cat="14" Index="485" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- ruud 500 -->
@@ -385,7 +385,7 @@
 				<Item Cat="13" Index="174" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" />
 				<Item Cat="13" Index="175" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" />
 				<Item Cat="13" Index="14" MinLevel="0" MaxLevel="1" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" Durability="1"/> <!-- loch -->
-				<Item Cat="14" Index="342" MinLevel="0" MaxLevel="1" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- steelofheaven -->
+				<Item Cat="14" Index="342" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- steelofheaven -->
 				<Item Cat="14" Index="345" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- Mysterious Stone -->
 				<Item Cat="13" Index="510" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="2"/> <!-- 3vacancies -->
 				<Item Cat="14" Index="485" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- ruud 500 -->
@@ -440,7 +440,7 @@
 				<Item Cat="13" Index="174" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" />
 				<Item Cat="13" Index="175" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" />
 				<Item Cat="13" Index="14" MinLevel="0" MaxLevel="1" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="7" Durability="1"/> <!-- loch -->
-				<Item Cat="14" Index="342" MinLevel="0" MaxLevel="1" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- steelofheaven -->
+				<Item Cat="14" Index="342" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- steelofheaven -->
 				<Item Cat="14" Index="345" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- Mysterious Stone -->
 				<Item Cat="13" Index="510" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="2"/> <!-- 3vacancies -->
 				<Item Cat="14" Index="485" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" Durability="1"/> <!-- ruud 500 -->

@@ -1115,4 +1115,9 @@
 	<Item GUID="1157" ID="1740" Cat="13" Index="155" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Scroll of Gray Oblivion" />
 	<Item GUID="1158" ID="1742" Cat="13" Index="509" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Scroll of Black Oblivion" />
 	<Item GUID="1159" ID="1744" Cat="14" Index="96" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Talisman of Chaos Assembly" />
+	<Item GUID="1160" ID="1745" Cat="13" Index="123" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="2" Duration="1440" Description="Pet Skeleton - 1 Day" />
+	<Item GUID="1160" ID="1746" Cat="13" Index="123" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="2" Duration="4320" Description="Pet Skeleton - 3 Day" />
+	<Item GUID="1160" ID="1747" Cat="13" Index="123" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="2" Duration="10080" Description="Pet Skeleton - 7 Day" />
+	<Item GUID="1166" ID="1754" Cat="20" Index="505" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Jewel of Science" />
+	<Item GUID="1167" ID="1756" Cat="20" Index="508" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Jewel of Wisdom" />
 </CashItemInfo>
