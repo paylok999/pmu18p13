@@ -89,8 +89,8 @@
 
 <CryWolf Enable="1">
 	<Schedule>
-		<Start Mode="0" State="1" Month="-1" Day="-1" DayOfWeek="2" Hour="21" Minute="25" ContinuanceTime="-1" />
-		<Start Mode="0" State="1" Month="-1" Day="-1" DayOfWeek="6" Hour="21" Minute="25" ContinuanceTime="-1" />
+		<Start Mode="0" State="1" Month="-1" Day="-1" DayOfWeek="2" Hour="0" Minute="0" ContinuanceTime="-1" />
+		<Start Mode="0" State="1" Month="-1" Day="-1" DayOfWeek="6" Hour="0" Minute="0" ContinuanceTime="-1" />
 	</Schedule>
 
 	<CycleSettings>

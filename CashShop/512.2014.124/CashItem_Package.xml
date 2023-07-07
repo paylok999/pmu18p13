@@ -71,6 +71,16 @@
 	<Package GUID="9" ID="4" ItemSequence="9" UniqueID1="1150" UniqueID2="1726" Description="Elemental Talisman of Chaos" />
 	<Package GUID="10" ID="4" ItemSequence="10" UniqueID1="1150" UniqueID2="1726" Description="Elemental Talisman of Chaos" />
 	<Package GUID="11" ID="4" ItemSequence="11" UniqueID1="1150" UniqueID2="1726" Description="Elemental Talisman of Chaos" />
+	<Package GUID="0" ID="5" ItemSequence="0" UniqueID1="22" UniqueID2="37" Description="Talisman of Luck" />
+	<Package GUID="1" ID="5" ItemSequence="1" UniqueID1="22" UniqueID2="37" Description="Talisman of Luck" />
+	<Package GUID="2" ID="5" ItemSequence="2" UniqueID1="22" UniqueID2="37" Description="Talisman of Luck" />
+	<Package GUID="3" ID="5" ItemSequence="3" UniqueID1="22" UniqueID2="37" Description="Talisman of Luck" />
+	<Package GUID="4" ID="5" ItemSequence="4" UniqueID1="22" UniqueID2="37" Description="Talisman of Luck" />
+	<Package GUID="5" ID="5" ItemSequence="5" UniqueID1="22" UniqueID2="37" Description="Talisman of Luck" />
+	<Package GUID="6" ID="5" ItemSequence="6" UniqueID1="22" UniqueID2="37" Description="Talisman of Luck" />
+	<Package GUID="7" ID="5" ItemSequence="7" UniqueID1="22" UniqueID2="37" Description="Talisman of Luck" />
+	<Package GUID="8" ID="5" ItemSequence="8" UniqueID1="22" UniqueID2="37" Description="Talisman of Luck" />
+	<Package GUID="9" ID="5" ItemSequence="9" UniqueID1="22" UniqueID2="37" Description="Talisman of Luck" />
 	<Package GUID="0" ID="6" ItemSequence="0" UniqueID1="1147" UniqueID2="1720" Description="Mysterious Stone" />
 	<Package GUID="1" ID="6" ItemSequence="1" UniqueID1="1147" UniqueID2="1720" Description="Mysterious Stone" />
 	<Package GUID="2" ID="6" ItemSequence="2" UniqueID1="1147" UniqueID2="1720" Description="Mysterious Stone" />
@@ -83,4 +93,34 @@
 	<Package GUID="9" ID="6" ItemSequence="9" UniqueID1="1147" UniqueID2="1720" Description="Mysterious Stone" />
 	<Package GUID="10" ID="6" ItemSequence="10" UniqueID1="1147" UniqueID2="1720" Description="Mysterious Stone" />
 	<Package GUID="11" ID="6" ItemSequence="11" UniqueID1="1147" UniqueID2="1720" Description="Mysterious Stone" />
+	<Package GUID="0" ID="7" ItemSequence="0" UniqueID1="1051" UniqueID2="1529" Description="Elemental Talisman of Luck" />
+	<Package GUID="1" ID="7" ItemSequence="1" UniqueID1="1051" UniqueID2="1529" Description="Elemental Talisman of Luck" />
+	<Package GUID="2" ID="7" ItemSequence="2" UniqueID1="1051" UniqueID2="1529" Description="Elemental Talisman of Luck" />
+	<Package GUID="3" ID="7" ItemSequence="3" UniqueID1="1051" UniqueID2="1529" Description="Elemental Talisman of Luck" />
+	<Package GUID="4" ID="7" ItemSequence="4" UniqueID1="1051" UniqueID2="1529" Description="Elemental Talisman of Luck" />
+	<Package GUID="5" ID="7" ItemSequence="5" UniqueID1="1051" UniqueID2="1529" Description="Elemental Talisman of Luck" />
+	<Package GUID="6" ID="7" ItemSequence="6" UniqueID1="1051" UniqueID2="1529" Description="Elemental Talisman of Luck" />
+	<Package GUID="7" ID="7" ItemSequence="7" UniqueID1="1051" UniqueID2="1529" Description="Elemental Talisman of Luck" />
+	<Package GUID="8" ID="7" ItemSequence="8" UniqueID1="1051" UniqueID2="1529" Description="Elemental Talisman of Luck" />
+	<Package GUID="9" ID="7" ItemSequence="9" UniqueID1="1051" UniqueID2="1529" Description="Elemental Talisman of Luck" />
+	<Package GUID="0" ID="8" ItemSequence="0" UniqueID1="1051" UniqueID2="1529" Description="Elemental Talisman of Luck" />
+	<Package GUID="1" ID="8" ItemSequence="1" UniqueID1="1051" UniqueID2="1529" Description="Elemental Talisman of Luck" />
+	<Package GUID="2" ID="8" ItemSequence="2" UniqueID1="1051" UniqueID2="1529" Description="Elemental Talisman of Luck" />
+	<Package GUID="3" ID="8" ItemSequence="3" UniqueID1="1051" UniqueID2="1529" Description="Elemental Talisman of Luck" />
+	<Package GUID="4" ID="8" ItemSequence="4" UniqueID1="1051" UniqueID2="1529" Description="Elemental Talisman of Luck" />
+	<Package GUID="5" ID="8" ItemSequence="5" UniqueID1="1051" UniqueID2="1529" Description="Elemental Talisman of Luck" />
+	<Package GUID="6" ID="8" ItemSequence="6" UniqueID1="1051" UniqueID2="1529" Description="Elemental Talisman of Luck" />
+	<Package GUID="7" ID="8" ItemSequence="7" UniqueID1="1051" UniqueID2="1529" Description="Elemental Talisman of Luck" />
+	<Package GUID="8" ID="8" ItemSequence="8" UniqueID1="1051" UniqueID2="1529" Description="Elemental Talisman of Luck" />
+	<Package GUID="9" ID="8" ItemSequence="9" UniqueID1="1051" UniqueID2="1529" Description="Elemental Talisman of Luck" />
+	<Package GUID="0" ID="9" ItemSequence="0" UniqueID1="22" UniqueID2="37" Description="Talisman of Luck" />
+	<Package GUID="1" ID="9" ItemSequence="1" UniqueID1="22" UniqueID2="37" Description="Talisman of Luck" />
+	<Package GUID="2" ID="9" ItemSequence="2" UniqueID1="22" UniqueID2="37" Description="Talisman of Luck" />
+	<Package GUID="3" ID="9" ItemSequence="3" UniqueID1="22" UniqueID2="37" Description="Talisman of Luck" />
+	<Package GUID="4" ID="9" ItemSequence="4" UniqueID1="22" UniqueID2="37" Description="Talisman of Luck" />
+	<Package GUID="5" ID="9" ItemSequence="5" UniqueID1="22" UniqueID2="37" Description="Talisman of Luck" />
+	<Package GUID="6" ID="9" ItemSequence="6" UniqueID1="22" UniqueID2="37" Description="Talisman of Luck" />
+	<Package GUID="7" ID="9" ItemSequence="7" UniqueID1="22" UniqueID2="37" Description="Talisman of Luck" />
+	<Package GUID="8" ID="9" ItemSequence="8" UniqueID1="22" UniqueID2="37" Description="Talisman of Luck" />
+	<Package GUID="9" ID="9" ItemSequence="9" UniqueID1="22" UniqueID2="37" Description="Talisman of Luck" />
 </CashItemPackage>

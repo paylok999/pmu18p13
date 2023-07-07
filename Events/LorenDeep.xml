@@ -47,7 +47,7 @@
 
 <LorenDeepEvent Enable="1">
 	<Schedule>
-		<Start Hour="20" Minute="0" />
+		<Start Hour="19" Minute="0" />
 	</Schedule>
 
 	<AssaultTypeSettings>

@@ -56,7 +56,7 @@
 	</Schedule>
 	
 	<RewardList>
-		<Reward Mission="0" Cat1="20" Index1="110" Count1="1" Cat2="20" Index2="110" Count2="1" Cat3="-1" Index3="-1" Count3="0" /> <!-- Accumulate specific value of damage caused -->
+		<Reward Mission="0" Cat1="20" Index1="110" Count1="1" Cat2="-1" Index2="-1" Count2="0" Cat3="-1" Index3="-1" Count3="0" /> <!-- Accumulate specific value of damage caused -->
 		<Reward Mission="1" Cat1="20" Index1="110" Count1="1" Cat2="-1" Index2="-1" Count2="0" Cat3="-1" Index3="-1" Count3="0" /> <!-- Highest total damage caused during the event -->
 		<Reward Mission="2" Cat1="20" Index1="110" Count1="1" Cat2="-1" Index2="-1" Count2="0" Cat3="-1" Index3="-1" Count3="0" /> <!-- Last hit caused to final (second) boss monster -->
 	</RewardList>

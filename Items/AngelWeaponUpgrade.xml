@@ -31,7 +31,7 @@
 -->
 
 <ArchangelWeapon>
-	<Upgrade SuccessRate="100" OptionUpgradeType="0"> <!-- n/100 -->
+	<Upgrade SuccessRate="100" OptionUpgradeType="1"> <!-- n/100 -->
 		<Item NeedCat="0"  NeedIndex="19"  ResultCat="0"  ResultIndex="51" /> <!-- Divine Sword of Archangel ~>  Blessed Divine Arch Sword -->
 		<Item NeedCat="0"  NeedIndex="60"  ResultCat="0"  ResultIndex="61" /> <!-- Divine Archangel Absolute Claw ~> Blessed Arch's Absolute Claw -->
 		<Item NeedCat="0"  NeedIndex="76"  ResultCat="0"  ResultIndex="77" /> <!-- Divine Archangel Short Sword ~> Blessed Arch's Short Sword -->
