@@ -1120,4 +1120,20 @@
 	<Item GUID="1160" ID="1747" Cat="13" Index="123" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="2" Duration="10080" Description="Pet Skeleton - 7 Day" />
 	<Item GUID="1166" ID="1754" Cat="20" Index="505" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Jewel of Science" />
 	<Item GUID="1167" ID="1756" Cat="20" Index="508" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Jewel of Wisdom" />
+	<Item GUID="1168" ID="1757" Cat="16" Index="155" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Dandelion Fairy (Evolved)" />
+	<Item GUID="1169" ID="1759" Cat="16" Index="157" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Sea Lifeguard (Evolved)" />
+	<Item GUID="1170" ID="1761" Cat="16" Index="159" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Night Song Fairy (Evolved)" />
+	<Item GUID="1171" ID="1763" Cat="14" Index="467" Level="0" Durability="10" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Guardian Enhanced Stone" />
+	<Item GUID="1172" ID="1765" Cat="14" Index="468" Level="0" Durability="10" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Elite Guardian Enhanced" />
+	<Item GUID="1173" ID="1767" Cat="14" Index="468" Level="0" Durability="10" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Elite Guardian Enhanced" />
+	<Item GUID="1174" ID="1769" Cat="14" Index="467" Level="0" Durability="10" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Guardian Enhanced Stone" />
+	<Item GUID="1175" ID="1771" Cat="14" Index="468" Level="0" Durability="10" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Elite Guardian Enhanced" />
+	<Item GUID="1176" ID="1773" Cat="14" Index="468" Level="0" Durability="20" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Elite Guardian Enhanced" />
+	<Item GUID="1177" ID="1775" Cat="14" Index="467" Level="0" Durability="20" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Guardian Enhanced Stone" />
+	<Item GUID="1178" ID="1777" Cat="14" Index="467" Level="0" Durability="20" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Guardian Enhanced Stone" />
+	<Item GUID="1179" ID="1779" Cat="14" Index="467" Level="0" Durability="20" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Guardian Enhanced Stone" />
+	<Item GUID="1180" ID="1781" Cat="14" Index="468" Level="0" Durability="20" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Elite Guardian Enhanced" />
+	<Item GUID="1181" ID="1783" Cat="14" Index="468" Level="0" Durability="10" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Elite Guardian Enhanced" />
+	<Item GUID="1182" ID="1785" Cat="14" Index="467" Level="0" Durability="20" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Guardian Enhanced Stone" />
+	<Item GUID="1183" ID="1787" Cat="14" Index="468" Level="0" Durability="10" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Elite Guardian Enhanced" />
 </CashItemInfo>

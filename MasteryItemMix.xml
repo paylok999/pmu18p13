@@ -1615,11 +1615,11 @@
 		<Mix ID="599" Cat="10" Index="196" Level="0" Name="Silver Heart Lancer Gloves" OptKeepType="6" SuccessRate="100" MaterialID1="452" MaterialCnt1="1" MaterialID2="498" MaterialCnt2="1" MaterialID3="21" MaterialCnt3="30" MaterialID4="22" MaterialCnt4="30" MaterialID5="6" MaterialCnt5="1" MaterialID6="3" MaterialCnt6="1" Money="0" />
 		<Mix ID="600" Cat="10" Index="197" Level="0" Name="Silver Heart Elf Gloves (B)" OptKeepType="6" SuccessRate="100" MaterialID1="346" MaterialCnt1="1" MaterialID2="498" MaterialCnt2="1" MaterialID3="21" MaterialCnt3="30" MaterialID4="22" MaterialCnt4="30" MaterialID5="6" MaterialCnt5="1" MaterialID6="3" MaterialCnt6="1" Money="0" />
 		<Mix ID="601" RandomID="0" Level="0" Name="Random Sealed Sculpture" OptKeepType="0" SuccessRate="100" MaterialID1="516" MaterialCnt1="1" MaterialID2="514" MaterialCnt2="1" MaterialID3="515" MaterialCnt3="1" MaterialID4="3" MaterialCnt4="1" MaterialID5="6" MaterialCnt5="1" MaterialID6="-1" MaterialCnt6="0" Money="100000" />
-		<Mix ID="602" RandomID="1" Level="13" Name="Random Blood Angel Helmet" OptKeepType="8" SuccessRate="100" MaterialID1="517" MaterialCnt1="1" MaterialID2="7" MaterialCnt2="1" MaterialID3="8" MaterialCnt3="1" MaterialID4="3" MaterialCnt4="1" MaterialID5="6" MaterialCnt5="1" MaterialID6="-1" MaterialCnt6="0" Money="100000" />
-		<Mix ID="603" RandomID="2" Level="13" Name="Random Blood Angel Armor" OptKeepType="8" SuccessRate="100" MaterialID1="518" MaterialCnt1="1" MaterialID2="7" MaterialCnt2="1" MaterialID3="8" MaterialCnt3="1" MaterialID4="3" MaterialCnt4="1" MaterialID5="6" MaterialCnt5="1" MaterialID6="-1" MaterialCnt6="0" Money="100000" />
-		<Mix ID="604" RandomID="3" Level="13" Name="Random Blood Angel Pants" OptKeepType="8" SuccessRate="100" MaterialID1="519" MaterialCnt1="1" MaterialID2="7" MaterialCnt2="1" MaterialID3="8" MaterialCnt3="1" MaterialID4="3" MaterialCnt4="1" MaterialID5="6" MaterialCnt5="1" MaterialID6="-1" MaterialCnt6="0" Money="100000" />
-		<Mix ID="605" RandomID="4" Level="13" Name="Random Blood Angel Gloves" OptKeepType="8" SuccessRate="100" MaterialID1="520" MaterialCnt1="1" MaterialID2="7" MaterialCnt2="1" MaterialID3="8" MaterialCnt3="1" MaterialID4="3" MaterialCnt4="1" MaterialID5="6" MaterialCnt5="1" MaterialID6="-1" MaterialCnt6="0" Money="100000" />
-		<Mix ID="606" RandomID="5" Level="13" Name="Random Blood Angel Boots" OptKeepType="8" SuccessRate="100" MaterialID1="521" MaterialCnt1="1" MaterialID2="7" MaterialCnt2="1" MaterialID3="8" MaterialCnt3="1" MaterialID4="3" MaterialCnt4="1" MaterialID5="6" MaterialCnt5="1" MaterialID6="-1" MaterialCnt6="0" Money="100000" />
+		<Mix ID="602" RandomID="1" Level="0" Name="Random Blood Angel Helmet" OptKeepType="8" SuccessRate="40" MaterialID1="517" MaterialCnt1="1" MaterialID2="7" MaterialCnt2="1" MaterialID3="8" MaterialCnt3="1" MaterialID4="3" MaterialCnt4="1" MaterialID5="6" MaterialCnt5="1" MaterialID6="-1" MaterialCnt6="0" Money="100000" />
+		<Mix ID="603" RandomID="2" Level="0" Name="Random Blood Angel Armor" OptKeepType="8" SuccessRate="40" MaterialID1="518" MaterialCnt1="1" MaterialID2="7" MaterialCnt2="1" MaterialID3="8" MaterialCnt3="1" MaterialID4="3" MaterialCnt4="1" MaterialID5="6" MaterialCnt5="1" MaterialID6="-1" MaterialCnt6="0" Money="100000" />
+		<Mix ID="604" RandomID="3" Level="0" Name="Random Blood Angel Pants" OptKeepType="8" SuccessRate="40" MaterialID1="519" MaterialCnt1="1" MaterialID2="7" MaterialCnt2="1" MaterialID3="8" MaterialCnt3="1" MaterialID4="3" MaterialCnt4="1" MaterialID5="6" MaterialCnt5="1" MaterialID6="-1" MaterialCnt6="0" Money="100000" />
+		<Mix ID="605" RandomID="4" Level="0" Name="Random Blood Angel Gloves" OptKeepType="8" SuccessRate="40" MaterialID1="520" MaterialCnt1="1" MaterialID2="7" MaterialCnt2="1" MaterialID3="8" MaterialCnt3="1" MaterialID4="3" MaterialCnt4="1" MaterialID5="6" MaterialCnt5="1" MaterialID6="-1" MaterialCnt6="0" Money="100000" />
+		<Mix ID="606" RandomID="5" Level="0" Name="Random Blood Angel Boots" OptKeepType="8" SuccessRate="40" MaterialID1="521" MaterialCnt1="1" MaterialID2="7" MaterialCnt2="1" MaterialID3="8" MaterialCnt3="1" MaterialID4="3" MaterialCnt4="1" MaterialID5="6" MaterialCnt5="1" MaterialID6="-1" MaterialCnt6="0" Money="100000" />
 		<Mix ID="1000" Cat="10" Index="198" Level="0" Name="Silver Heart Magic Gloves (B)" OptKeepType="6" SuccessRate="100" MaterialID1="353" MaterialCnt1="1" MaterialID2="498" MaterialCnt2="1" MaterialID3="21" MaterialCnt3="30" MaterialID4="22" MaterialCnt4="30" MaterialID5="6" MaterialCnt5="1" MaterialID6="3" MaterialCnt6="1" Money="0" />
 		<Mix ID="1001" Cat="11" Index="189" Level="0" Name="Silver Heart Knight Boots" OptKeepType="6" SuccessRate="100" MaterialID1="432" MaterialCnt1="1" MaterialID2="498" MaterialCnt2="1" MaterialID3="21" MaterialCnt3="30" MaterialID4="22" MaterialCnt4="30" MaterialID5="6" MaterialCnt5="1" MaterialID6="3" MaterialCnt6="1" Money="0" />
 		<Mix ID="1002" Cat="11" Index="193" Level="0" Name="Silver Heart Magic Boots (A)" OptKeepType="6" SuccessRate="100" MaterialID1="350" MaterialCnt1="1" MaterialID2="498" MaterialCnt2="1" MaterialID3="21" MaterialCnt3="30" MaterialID4="22" MaterialCnt4="30" MaterialID5="6" MaterialCnt5="1" MaterialID6="3" MaterialCnt6="1" Money="0" />
@@ -2307,7 +2307,6 @@
 			<Item Cat="9" Index="306" Name="Blood Angel Illusion Knight Pants" Rate="1" />
 		</Result>
 		<Result ID="4">	
-			<Item Cat="10" Index="98" Name="Blood Angel Knight Gloves" Rate="1" />
 			<Item Cat="10" Index="99" Name="Blood Angel Wizard Gloves" Rate="1" />
 			<Item Cat="10" Index="100" Name="Blood Angel Elf Gloves (A)" Rate="1" />
 			<Item Cat="10" Index="101" Name="Blood Angel Summoner Gloves" Rate="1" />
@@ -2318,28 +2317,13 @@
 			<Item Cat="10" Index="158" Name="Blood Angel Elf Gloves (B)" Rate="1" />
 			<Item Cat="10" Index="161" Name="Blood Angel Magic Gloves (B)" Rate="1" />
 			<Item Cat="10" Index="180" Name="Blood Angel Slayer Gloves" Rate="1" />
-			<Item Cat="10" Index="212" Name="Blood Angel Gun Crusher Gloves" Rate="1" />
 			<Item Cat="10" Index="241" Name="Blood Angel Light Wizard Gloves" Rate="1" />
 			<Item Cat="10" Index="259" Name="Blood Angel Mage Gloves" Rate="1" />
 			<Item Cat="10" Index="306" Name="Blood Angel Illusion Knight Gloves" Rate="1" />
 		</Result>
 		<Result ID="5">	
 			<Item Cat="11" Index="98" Name="Blood Angel Knight Boots" Rate="1" />
-			<Item Cat="11" Index="99" Name="Blood Angel Wizard Boots" Rate="1" />
-			<Item Cat="11" Index="100" Name="Blood Angel Elf Boots (A)" Rate="1" />
-			<Item Cat="11" Index="101" Name="Blood Angel Summoner Boots" Rate="1" />
-			<Item Cat="11" Index="102" Name="Blood Angel Magic Boots (A)" Rate="1" />
-			<Item Cat="11" Index="103" Name="Blood Angel Lord Boots" Rate="1" />
-			<Item Cat="11" Index="104" Name="Blood Angel Fighter Boots" Rate="1" />
-			<Item Cat="11" Index="105" Name="Blood Angel Lancer Boots" Rate="1" />
-			<Item Cat="11" Index="122" Name="Blood Angel Runist Boots" Rate="1" />
-			<Item Cat="11" Index="158" Name="Blood Angel Elf Boots (B)" Rate="1" />
-			<Item Cat="11" Index="161" Name="Blood Angel Magic Boots (B)" Rate="1" />
-			<Item Cat="11" Index="180" Name="Blood Angel Slayer Boots" Rate="1" />
 			<Item Cat="11" Index="212" Name="Blood Angel Gun Crusher Boots" Rate="1" />
-			<Item Cat="11" Index="241" Name="Blood Angel Light Wizard Boots" Rate="1" />
-			<Item Cat="11" Index="259" Name="Blood Angel Mage Boots" Rate="1" />
-			<Item Cat="11" Index="306" Name="Blood Angel Illusion Knight Boots" Rate="1" />
 		</Result>
 	</RandomCombinationResult>
 </MasteryItemMix>

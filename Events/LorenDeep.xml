@@ -51,8 +51,8 @@
 	</Schedule>
 
 	<AssaultTypeSettings>
-		<Assault Type="1" AppearanceRate="50" /> <!-- Common Assault -->
-		<Assault Type="2" AppearanceRate="50" /> <!-- Special Raid -->
+		<Assault Type="1" AppearanceRate="0" /> <!-- Common Assault -->
+		<Assault Type="2" AppearanceRate="100" /> <!-- Special Raid -->
 	</AssaultTypeSettings>
 
 	<AssaultGroupSettings>
