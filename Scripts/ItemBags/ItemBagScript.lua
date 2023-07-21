@@ -369,6 +369,18 @@ function LoadItemBag() -- Bags Load
 	AddItemBag(BAG_MONSTER, 0,849,'Monster_(849)_Elite_Scorched_Assassins') -- DropFunction /2/
 	AddItemBag(BAG_MONSTER, 0,850,'Monster_(850)_Elite_Scorched Wizard') -- DropFunction /2/
 	AddItemBag(BAG_MONSTER, 0,135,'Monster_(135)_WhiteWizard') -- DropFunction /2/
+	
+	AddItemBag(BAG_MONSTER, 0,898,'Monster_(848)_Elite_Scorched_Warrior') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,899,'Monster_(849)_Elite_Scorched_Assassins') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,900,'Monster_(850)_Elite_Scorched Wizard') -- DropFunction /2/
+	
+	AddItemBag(BAG_MONSTER, 0,908,'Monster_(848)_Elite_Scorched_Warrior') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,909,'Monster_(849)_Elite_Scorched_Assassins') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,910,'Monster_(850)_Elite_Scorched Wizard') -- DropFunction /2/
+	
+	AddItemBag(BAG_MONSTER, 0,914,'Monster_(848)_Elite_Scorched_Warrior') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,915,'Monster_(849)_Elite_Scorched_Assassins') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,916,'Monster_(850)_Elite_Scorched Wizard') -- DropFunction /2/
 
 -- ====================================================================
 -- EventBags -- BagType, EventID, 0, 'FileName'

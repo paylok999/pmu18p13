@@ -11639,17 +11639,17 @@
 	<Map Number="138" Name="Ignis Volcanos">
 		<Spot Type="4" Description="Single Point Elemental Monsters">
 			<!--(911) Magma Gladiator [Lv.640]-->
-			<Spawn Index="911" Distance="30" StartX="104" StartY="84" Dir="-1" Element="6" />
+			<Spawn Index="911" Distance="1" StartX="110" StartY="84" Dir="-1" Element="6" />
 			<!--(911) Magma Gladiator [Lv.640]-->
-			<Spawn Index="911" Distance="30" StartX="108" StartY="82" Dir="-1" Element="6" />
+			<Spawn Index="911" Distance="30" StartX="110" StartY="84" Dir="-1" Element="6" />
 			<!--(911) Magma Gladiator [Lv.640]-->
-			<Spawn Index="911" Distance="30" StartX="106" StartY="87" Dir="-1" Element="6" />
+			
 			<!--(911) Magma Gladiator [Lv.640]-->
 			<Spawn Index="911" Distance="30" StartX="105" StartY="28" Dir="-1" Element="6" />
 			<!--(911) Magma Gladiator [Lv.640]-->
-			<Spawn Index="911" Distance="30" StartX="112" StartY="32" Dir="-1" Element="6" />
+			<Spawn Index="911" Distance="30" StartX="111" StartY="78" Dir="-1" Element="6" />
 			<!--(911) Magma Gladiator [Lv.640]-->
-			<Spawn Index="911" Distance="30" StartX="116" StartY="43" Dir="-1" Element="6" />
+			<Spawn Index="911" Distance="30" StartX="111" StartY="77" Dir="-1" Element="6" />
 			<!--(911) Magma Gladiator [Lv.640]-->
 			<Spawn Index="911" Distance="30" StartX="98" StartY="19" Dir="-1" Element="6" />
 			<!--(911) Magma Gladiator [Lv.640]-->
