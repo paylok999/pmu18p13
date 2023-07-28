@@ -103,7 +103,7 @@
 		<Section ID="5" SkillRate="5000" LuckRate="3500" OptionRate="500000" ExcRate="500000" /> <!-- n/1000000 -->
 		<Section ID="6" SkillRate="5000" LuckRate="3500" OptionRate="500000" ExcRate="500000" /> <!-- n/1000000 -->
 		<Section ID="7" SkillRate="5000" LuckRate="3500" OptionRate="500000" ExcRate="500000" /> <!-- n/1000000 -->
-		<Section ID="8" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="100" /> <!-- n/1000000 -->
+		<Section ID="8" SkillRate="1000000" LuckRate="500000" OptionRate="500000" ExcRate="500000" /> <!-- n/1000000 -->
 		<Section ID="9" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="100" /> <!-- n/1000000 -->
 		<Section ID="10" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="100" /> <!-- n/1000000 -->
 	</RewardSettings>
@@ -130,19 +130,6 @@
 				<Item Cat="14" Index="437" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- Medicine -->
 				<Item Cat="14" Index="438" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- Medicine -->
 				<Item Cat="14" Index="439" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- Medicine -->
-				<Item Cat="0" Index="19" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- AA sword -->
-				<Item Cat="0" Index="60" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- AA claw -->
-				<Item Cat="0" Index="76" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- AA shortsword -->
-				<Item Cat="0" Index="113" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- AA blade -->
-				<Item Cat="2" Index="13" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- AA scepter -->
-				<Item Cat="2" Index="34" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- AA mace -->
-				<Item Cat="3" Index="26" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- AA lance -->
-				<Item Cat="4" Index="18" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- AA xbow -->
-				<Item Cat="4" Index="46" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- AA gun -->
-				<Item Cat="5" Index="10" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- AA staff -->
-				<Item Cat="5" Index="93" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- AA orb -->
-
-
 			</Reward>
 		</Section>
 		
@@ -538,6 +525,43 @@
 				<Item Cat="13" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- condorfeather -->
 				<Item Cat="13" Index="407" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- AHS -->
 				<Item Cat="13" Index="36" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- Broken Horn -->
+			</Reward>
+		</Section>
+		
+		<Section ID="8" Active="1"  Name="Archangel Weapon Box">
+			<Input>
+				<Item ItemCat="-1" ItemIndex="-1" Cost="10000000" />
+			</Input>
+			<Reward>
+				<Item Cat="14" Index="13" Durability="1" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- Jewel of Bless -->
+				<Item Cat="14" Index="14" Durability="1" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- Jewel of Soul -->
+				<Item Cat="14" Index="16" Durability="1" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- Jewel of Life -->
+				<Item Cat="14" Index="22" Durability="1" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- Jewel of Creation -->
+				<Item Cat="14" Index="31" Durability="1" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- Jewel of Guardian -->
+				<Item Cat="14" Index="41" Durability="1" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- Gemstone -->
+				<Item Cat="14" Index="42" Durability="1" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- Jewel of Harmony -->
+				<Item Cat="14" Index="43" Durability="1" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" /> <!-- Lower Refine Stone -->
+				<Item Cat="14" Index="44" Durability="1" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="3" /> <!-- Higher Refine Stone -->
+				<Item Cat="14" Index="432" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- Medicine -->
+				<Item Cat="14" Index="433" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- Medicine -->
+				<Item Cat="14" Index="434" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- Medicine -->
+				<Item Cat="14" Index="435" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- Medicine -->
+				<Item Cat="14" Index="436" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- Medicine -->
+				<Item Cat="14" Index="437" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- Medicine -->
+				<Item Cat="14" Index="438" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- Medicine -->
+				<Item Cat="14" Index="439" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- Medicine -->
+				<Item Cat="0" Index="19" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- AA sword -->
+				<Item Cat="0" Index="60" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- AA claw -->
+				<Item Cat="0" Index="76" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- AA shortsword -->
+				<Item Cat="0" Index="113" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- AA blade -->
+				<Item Cat="2" Index="13" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- AA scepter -->
+				<Item Cat="2" Index="34" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- AA mace -->
+				<Item Cat="3" Index="26" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- AA lance -->
+				<Item Cat="4" Index="18" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- AA xbow -->
+				<Item Cat="4" Index="46" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- AA gun -->
+				<Item Cat="5" Index="70" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- magic book -->
+				<Item Cat="5" Index="10" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- AA staff -->
+				<Item Cat="5" Index="93" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" /> <!-- AA orb -->
 			</Reward>
 		</Section>
 
