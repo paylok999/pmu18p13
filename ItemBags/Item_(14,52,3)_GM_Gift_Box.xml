@@ -20,23 +20,23 @@
 <DropSection UseMode="-1" DisplayName="Section 1">
 	<DropAllow DW="1" DK="1" ELF="1" MG="1" DL="1" SU="1" RF="1" GL="1" RW="1" SLA="1" GC="1" LW="1" LM="1" IK="1" PlayerMinLevel="1" PlayerMaxLevel="MAX" PlayerMinReset="0" PlayerMaxReset="MAX" MapNumber="-1">
 		<Drop Rate1="500" Type="0" Count="1">
-				<Item Cat="12" Index="100" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- SS3FIRE -->
-				<Item Cat="12" Index="101" MinLevel="0" MaxLevel="4" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- SS3WATER -->
-				<Item Cat="12" Index="102" MinLevel="0" MaxLevel="4" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- SS3ICE -->
-				<Item Cat="12" Index="103" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- SS3WIND -->
-				<Item Cat="12" Index="104" MinLevel="0" MaxLevel="3" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- SS3LIGHTNING -->
-				<Item Cat="12" Index="105" MinLevel="0" MaxLevel="3" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- SS3EARTH -->
-				<Item Cat="14" Index="400" MinLevel="0" MaxLevel="3" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- ruud10 -->
-				<Item Cat="14" Index="401" MinLevel="0" MaxLevel="3" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- ruud50 -->
-				<Item Cat="14" Index="402" MinLevel="0" MaxLevel="3" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- ruud100 -->
-				<Item Cat="14" Index="485" MinLevel="0" MaxLevel="3" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- ruud500 -->
-				<Item Cat="14" Index="400" MinLevel="0" MaxLevel="3" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- ruud10 -->
-				<Item Cat="14" Index="401" MinLevel="0" MaxLevel="3" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- ruud50 -->
-				<Item Cat="14" Index="402" MinLevel="0" MaxLevel="3" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- ruud100 -->
-				<Item Cat="14" Index="485" MinLevel="0" MaxLevel="3" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- ruud500 -->
-				<Item Cat="14" Index="486" MinLevel="0" MaxLevel="3" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- ruud1500 -->
-				<Item Cat="14" Index="447" MinLevel="0" MaxLevel="3" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- ruud2000 -->
-				<Item Cat="14" Index="448" MinLevel="0" MaxLevel="3" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- ruud3000 -->
+				<Item Cat="12" Index="100" ItemMinLevel="0" ItemMaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- SS3FIRE -->
+				<Item Cat="12" Index="101" ItemMinLevel="0" ItemMaxLevel="4" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- SS3WATER -->
+				<Item Cat="12" Index="102" ItemMinLevel="0" ItemMaxLevel="4" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- SS3ICE -->
+				<Item Cat="12" Index="103" ItemMinLevel="0" ItemMaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- SS3WIND -->
+				<Item Cat="12" Index="104" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- SS3LIGHTNING -->
+				<Item Cat="12" Index="105" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- SS3EARTH -->
+				<Item Cat="14" Index="400" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- ruud10 -->
+				<Item Cat="14" Index="401" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- ruud50 -->
+				<Item Cat="14" Index="402" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- ruud100 -->
+				<Item Cat="14" Index="485" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- ruud500 -->
+				<Item Cat="14" Index="400" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- ruud10 -->
+				<Item Cat="14" Index="401" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- ruud50 -->
+				<Item Cat="14" Index="402" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- ruud100 -->
+				<Item Cat="14" Index="485" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- ruud500 -->
+				<Item Cat="14" Index="486" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- ruud1500 -->
+				<Item Cat="14" Index="447" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- ruud2000 -->
+				<Item Cat="14" Index="448" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="1" Durability="1"/> <!-- ruud3000 -->
 				<Item Cat="14" Index="13" Durability="3" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- bless -->
 				<Item Cat="14" Index="14" Durability="3" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- soul -->
 				<Item Cat="14" Index="16" Durability="3" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- life -->

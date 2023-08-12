@@ -370,6 +370,14 @@ function LoadItemBag() -- Bags Load
 	AddItemBag(BAG_MONSTER, 0,850,'Monster_(850)_Elite_Scorched Wizard') -- DropFunction /2/
 	AddItemBag(BAG_MONSTER, 0,135,'Monster_(135)_WhiteWizard') -- DropFunction /2/
 	
+	AddItemBag(BAG_MONSTER, 0,870,'Monster_(848)_Elite_Scorched_Warrior') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,871,'Monster_(849)_Elite_Scorched_Assassins') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,872,'Monster_(850)_Elite_Scorched Wizard') -- DropFunction /2/
+	
+	AddItemBag(BAG_MONSTER, 0,879,'Monster_(848)_Elite_Scorched_Warrior') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,880,'Monster_(849)_Elite_Scorched_Assassins') -- DropFunction /2/
+
+	
 	AddItemBag(BAG_MONSTER, 0,898,'Monster_(848)_Elite_Scorched_Warrior') -- DropFunction /2/
 	AddItemBag(BAG_MONSTER, 0,899,'Monster_(849)_Elite_Scorched_Assassins') -- DropFunction /2/
 	AddItemBag(BAG_MONSTER, 0,900,'Monster_(850)_Elite_Scorched Wizard') -- DropFunction /2/

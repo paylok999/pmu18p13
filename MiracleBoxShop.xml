@@ -146,10 +146,6 @@
 				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="21" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
 				<Item Cat="13" Index="22" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
 				<Item Cat="13" Index="23" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
@@ -183,6 +179,7 @@
 				<Item Cat="13" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- condorfeather -->
 				<Item Cat="13" Index="407" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- AHS -->
 				<Item Cat="13" Index="36" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- Broken Horn -->
+				<Item Cat="12" Index="261" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="1" /> <!-- Radiance -->
 			</Reward>
 		</Section>		
 		
@@ -199,14 +196,6 @@
 				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="21" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
 				<Item Cat="13" Index="22" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
 				<Item Cat="13" Index="23" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
@@ -240,6 +229,7 @@
 				<Item Cat="13" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- condorfeather -->
 				<Item Cat="13" Index="407" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- AHS -->
 				<Item Cat="13" Index="36" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- Broken Horn -->
+				<Item Cat="12" Index="261" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="1" /> <!-- Radiance -->
 			</Reward>
 		</Section>
 		
@@ -256,14 +246,6 @@
 				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="21" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
 				<Item Cat="13" Index="22" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
 				<Item Cat="13" Index="23" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
@@ -297,6 +279,7 @@
 				<Item Cat="13" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- condorfeather -->
 				<Item Cat="13" Index="407" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- AHS -->
 				<Item Cat="13" Index="36" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- Broken Horn -->
+				<Item Cat="12" Index="261" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="1" /> <!-- Radiance -->
 			</Reward>
 		</Section>
 		
@@ -313,14 +296,6 @@
 				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="21" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
 				<Item Cat="13" Index="22" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
 				<Item Cat="13" Index="23" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
@@ -354,6 +329,7 @@
 				<Item Cat="13" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- condorfeather -->
 				<Item Cat="13" Index="407" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- AHS -->
 				<Item Cat="13" Index="36" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- Broken Horn -->
+				<Item Cat="12" Index="261" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="1" /> <!-- Radiance -->
 			</Reward>
 		</Section>
 		
@@ -370,14 +346,6 @@
 				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="21" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
 				<Item Cat="13" Index="22" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
 				<Item Cat="13" Index="23" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
@@ -411,6 +379,7 @@
 				<Item Cat="13" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- condorfeather -->
 				<Item Cat="13" Index="407" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- AHS -->
 				<Item Cat="13" Index="36" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- Broken Horn -->
+				<Item Cat="12" Index="261" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="1" /> <!-- Radiance -->
 			</Reward>
 		</Section>
 		
@@ -427,14 +396,6 @@
 				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="21" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
 				<Item Cat="13" Index="22" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
 				<Item Cat="13" Index="23" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
@@ -468,6 +429,7 @@
 				<Item Cat="13" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- condorfeather -->
 				<Item Cat="13" Index="407" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- AHS -->
 				<Item Cat="13" Index="36" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- Broken Horn -->
+				<Item Cat="12" Index="261" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="1" /> <!-- Radiance -->
 			</Reward>
 		</Section>
 		
@@ -484,14 +446,6 @@
 				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
-				<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" />
 				<Item Cat="13" Index="21" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
 				<Item Cat="13" Index="22" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
 				<Item Cat="13" Index="23" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10" />
@@ -525,6 +479,7 @@
 				<Item Cat="13" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- condorfeather -->
 				<Item Cat="13" Index="407" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- AHS -->
 				<Item Cat="13" Index="36" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- Broken Horn -->
+				<Item Cat="12" Index="261" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="1" /> <!-- Radiance -->
 			</Reward>
 		</Section>
 		
@@ -614,5 +569,6 @@
 		<Item Cat="4" Index="46" Name="AA gun" />
 		<Item Cat="5" Index="10" Name="AA staff" />
 		<Item Cat="5" Index="93" Name="AA orb" />
+		<Item Cat="12" Index="261" Name="Radiance" />
 	</RewardNotificationItems>
 </MiracleBoxShop>	
