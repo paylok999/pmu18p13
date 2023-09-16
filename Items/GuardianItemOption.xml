@@ -74,7 +74,7 @@
 		<Guardian Number="4" OptionNumber="3" FormulaID="34" LowerBound="0" UpperBound="1100" />
 	</OptionSettings>
 	
-	<OptionRate One="8000" Two="2000" Three="0" Four="0" />
+	<OptionRate One="0" Two="10000" Three="0" Four="0" />
 	
 	<EliteOptionList>
 		<Option Index="0" Name="Bleeding Damage Resistance +%d" />

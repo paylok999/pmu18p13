@@ -215,4 +215,7 @@
 	<Item GUID="1048" iIndex="825" iSubIndex="0" OptionSelect="0" PackageID="0" CoinType="1" CoinValue="500" UniqueID1="1181" UniqueID2="1783" ShopCategory="74" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="Elite Guardian Enhanced" />
 	<Item GUID="1049" iIndex="826" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="50" UniqueID1="1182" UniqueID2="1785" ShopCategory="73" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="Guardian Enhanced Stone" />
 	<Item GUID="1050" iIndex="827" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="50" UniqueID1="1183" UniqueID2="1787" ShopCategory="73" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="Elite Guardian Enhanced" />
+	<Item GUID="1053" iIndex="830" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="50" UniqueID1="1186" UniqueID2="1790" ShopCategory="73" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="Elemental Rune" />
+	<Item GUID="1055" iIndex="832" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="500" UniqueID1="1188" UniqueID2="1793" ShopCategory="75" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="Guardian Enhanced Stone" />
+	<Item GUID="1056" iIndex="833" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="500" UniqueID1="1189" UniqueID2="1795" ShopCategory="75" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="Elemental Rune" />
 </CashItemList>
