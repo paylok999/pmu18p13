@@ -70,6 +70,11 @@
 		
 		<Item Cat="14" Index="163" Level="0"  Skill="0" Luck="0" Option="0" Exc="1" SetItem="0" SocketCount="3" Elemental="1" Serial="0" />
 		<Item Cat="20" Index="109" Level="0"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="-1" Elemental="1" Serial="0" />
+		
+		<Item Cat="13" Index="148" Durability="10" Level="0"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="-1" Elemental="1" Serial="0" />
+		<Item Cat="13" Index="149" Durability="10" Level="0"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="-1" Elemental="1" Serial="0" />
+		<Item Cat="13" Index="150" Durability="10" Level="0"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="-1" Elemental="1" Serial="0" />
+		<Item Cat="13" Index="151" Level="0"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="-1" Elemental="1" Serial="0" />
 
 		
 	</Tab>

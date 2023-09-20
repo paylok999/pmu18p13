@@ -177,9 +177,15 @@
 				<Item Cat="12" Index="449" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- rageearringL -->
 				<Item Cat="12" Index="457" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- rageearringR -->
 				<Item Cat="13" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- condorfeather -->
-				<Item Cat="13" Index="407" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- AHS -->
-				<Item Cat="13" Index="36" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- Broken Horn -->
+				<Item Cat="13" Index="36" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1"  Durability="1"/> <!-- Broken Horn -->
 				<Item Cat="12" Index="261" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="1" /> <!-- Radiance -->
+				
+				<Item Cat="12" Index="100" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1FIRE -->
+				<Item Cat="12" Index="101" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1WATER -->
+				<Item Cat="12" Index="102" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1ICE -->
+				<Item Cat="12" Index="103" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1WIND -->
+				<Item Cat="12" Index="104" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1LIGHTNING -->
+				<Item Cat="12" Index="105" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1EARTH -->
 			</Reward>
 		</Section>		
 		
@@ -227,9 +233,15 @@
 				<Item Cat="12" Index="449" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- rageearringL -->
 				<Item Cat="12" Index="457" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- rageearringR -->
 				<Item Cat="13" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- condorfeather -->
-				<Item Cat="13" Index="407" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- AHS -->
-				<Item Cat="13" Index="36" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- Broken Horn -->
+				<Item Cat="13" Index="36" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1"  Durability="1"/> <!-- Broken Horn -->
 				<Item Cat="12" Index="261" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="1" /> <!-- Radiance -->
+				
+				<Item Cat="12" Index="100" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1FIRE -->
+				<Item Cat="12" Index="101" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1WATER -->
+				<Item Cat="12" Index="102" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1ICE -->
+				<Item Cat="12" Index="103" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1WIND -->
+				<Item Cat="12" Index="104" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1LIGHTNING -->
+				<Item Cat="12" Index="105" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1EARTH -->
 			</Reward>
 		</Section>
 		
@@ -277,9 +289,14 @@
 				<Item Cat="12" Index="449" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- rageearringL -->
 				<Item Cat="12" Index="457" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- rageearringR -->
 				<Item Cat="13" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- condorfeather -->
-				<Item Cat="13" Index="407" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- AHS -->
-				<Item Cat="13" Index="36" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- Broken Horn -->
+				<Item Cat="13" Index="36" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1"  Durability="1"/> <!-- Broken Horn -->
 				<Item Cat="12" Index="261" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="1" /> <!-- Radiance -->
+				<Item Cat="12" Index="100" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1FIRE -->
+				<Item Cat="12" Index="101" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1WATER -->
+				<Item Cat="12" Index="102" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1ICE -->
+				<Item Cat="12" Index="103" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1WIND -->
+				<Item Cat="12" Index="104" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1LIGHTNING -->
+				<Item Cat="12" Index="105" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1EARTH -->
 			</Reward>
 		</Section>
 		
@@ -327,9 +344,14 @@
 				<Item Cat="12" Index="449" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- rageearringL -->
 				<Item Cat="12" Index="457" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- rageearringR -->
 				<Item Cat="13" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- condorfeather -->
-				<Item Cat="13" Index="407" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- AHS -->
-				<Item Cat="13" Index="36" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- Broken Horn -->
+				<Item Cat="13" Index="36" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1"  Durability="1"/> <!-- Broken Horn -->
 				<Item Cat="12" Index="261" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="1" /> <!-- Radiance -->
+				<Item Cat="12" Index="100" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1FIRE -->
+				<Item Cat="12" Index="101" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1WATER -->
+				<Item Cat="12" Index="102" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1ICE -->
+				<Item Cat="12" Index="103" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1WIND -->
+				<Item Cat="12" Index="104" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1LIGHTNING -->
+				<Item Cat="12" Index="105" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1EARTH -->
 			</Reward>
 		</Section>
 		
@@ -377,9 +399,14 @@
 				<Item Cat="12" Index="449" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- rageearringL -->
 				<Item Cat="12" Index="457" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- rageearringR -->
 				<Item Cat="13" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- condorfeather -->
-				<Item Cat="13" Index="407" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- AHS -->
-				<Item Cat="13" Index="36" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- Broken Horn -->
+				<Item Cat="13" Index="36" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1"  Durability="1"/> <!-- Broken Horn -->
 				<Item Cat="12" Index="261" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="1" /> <!-- Radiance -->
+				<Item Cat="12" Index="100" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1FIRE -->
+				<Item Cat="12" Index="101" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1WATER -->
+				<Item Cat="12" Index="102" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1ICE -->
+				<Item Cat="12" Index="103" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1WIND -->
+				<Item Cat="12" Index="104" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1LIGHTNING -->
+				<Item Cat="12" Index="105" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1EARTH -->
 			</Reward>
 		</Section>
 		
@@ -427,9 +454,14 @@
 				<Item Cat="12" Index="449" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- rageearringL -->
 				<Item Cat="12" Index="457" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- rageearringR -->
 				<Item Cat="13" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- condorfeather -->
-				<Item Cat="13" Index="407" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- AHS -->
-				<Item Cat="13" Index="36" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- Broken Horn -->
+				<Item Cat="13" Index="36" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1"  Durability="1"/> <!-- Broken Horn -->
 				<Item Cat="12" Index="261" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="1" /> <!-- Radiance -->
+				<Item Cat="12" Index="100" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1FIRE -->
+				<Item Cat="12" Index="101" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1WATER -->
+				<Item Cat="12" Index="102" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1ICE -->
+				<Item Cat="12" Index="103" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1WIND -->
+				<Item Cat="12" Index="104" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1LIGHTNING -->
+				<Item Cat="12" Index="105" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1EARTH -->
 			</Reward>
 		</Section>
 		
@@ -477,9 +509,14 @@
 				<Item Cat="12" Index="449" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- rageearringL -->
 				<Item Cat="12" Index="457" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- rageearringR -->
 				<Item Cat="13" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- condorfeather -->
-				<Item Cat="13" Index="407" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- AHS -->
-				<Item Cat="13" Index="36" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" /> <!-- Broken Horn -->
+				<Item Cat="13" Index="36" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1"  Durability="1"/> <!-- Broken Horn -->
 				<Item Cat="12" Index="261" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="1" /> <!-- Radiance -->
+				<Item Cat="12" Index="100" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1FIRE -->
+				<Item Cat="12" Index="101" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1WATER -->
+				<Item Cat="12" Index="102" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1ICE -->
+				<Item Cat="12" Index="103" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1WIND -->
+				<Item Cat="12" Index="104" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1LIGHTNING -->
+				<Item Cat="12" Index="105" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS1EARTH -->
 			</Reward>
 		</Section>
 		
